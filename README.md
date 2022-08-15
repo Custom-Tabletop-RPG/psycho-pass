@@ -1,1 +1,0 @@
-# psycho-pass-pnp
