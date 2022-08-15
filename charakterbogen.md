@@ -1,4 +1,6 @@
-<div class="container">
+Drücke `Strg`+ `P` zum drucken.
+
+<div class="character-sheet">
   <div
     class="allgemeines column"
     style="display: grid; gap: 0.2rem; grid-template-rows: auto auto 1fr"
@@ -61,7 +63,20 @@
 </div>
 
 <style>
-  .container {
+  @media print {
+    .character-sheet {
+      max-height: 100vh !important;
+    }
+
+    .markdown-body > p,
+    .markdown-body > h1,
+    .markdown-body > .footer {
+      display: none !important;
+      visibility: collapse !important;
+    }
+  }
+
+  .character-sheet {
     display: grid;
     grid-template-columns: 1fr 0.5fr 1fr;
     grid-template-rows: repeat(7, 1fr);
@@ -77,15 +92,15 @@
       "stress konsequenzen konsequenzen";
   }
 
-  .allgemeines {
+  .character-sheet > .allgemeines {
     grid-area: allgemeines;
   }
 
-  .erholungsrate {
+  .character-sheet > .erholungsrate {
     grid-area: erholungsrate;
   }
 
-  .icon {
+  .character-sheet > .icon {
     grid-area: icon;
     background-image: url(./img/Psycho-pass.logo.svg);
     background-size: contain;
@@ -93,43 +108,43 @@
     background-position: center;
   }
 
-  .aspekte {
+  .character-sheet > .aspekte {
     grid-area: aspekte;
   }
 
-  .methoden {
+  .character-sheet > .methoden {
     grid-area: methoden;
   }
 
-  .stunts {
+  .character-sheet > .stunts {
     grid-area: stunts;
   }
 
-  .stress {
+  .character-sheet > .stress {
     grid-area: stress;
   }
 
-  .konsequenzen {
+  .character-sheet > .konsequenzen {
     grid-area: konsequenzen;
   }
 
-  .column {
+  .character-sheet .column {
     display: flex;
     flex-direction: column;
     gap: 0.2rem;
   }
 
-  textarea {
+  .character-sheet textarea {
     resize: none;
   }
 
-  .right {
+  .character-sheet .right {
     display: grid;
     gap: 0.2rem;
     grid-template-columns: auto 1fr;
   }
 
-  .bottom {
+  .character-sheet .bottom {
     display: grid;
     gap: 0.2rem;
     grid-template-rows: auto 1fr;
