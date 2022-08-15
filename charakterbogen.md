@@ -13,7 +13,9 @@ Drücke `Strg`+ `P` zum drucken.
     >Erholungsrate
     <textarea></textarea>
   </label>
-  <div class="icon"></div>
+  <div class="icon">
+    <img src="./img/Psycho-pass.logo.svg" />
+  </div>
   <div
     class="aspekte"
     style="display: grid; grid-template-rows: auto repeat(5, 1fr); gap: 0.2rem"
@@ -102,10 +104,6 @@ Drücke `Strg`+ `P` zum drucken.
 
   .character-sheet > .icon {
     grid-area: icon;
-    background-image: url(./img/Psycho-pass.logo.svg);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
   }
 
   .character-sheet > .aspekte {
