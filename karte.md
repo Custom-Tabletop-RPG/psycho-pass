@@ -1,4 +1,4 @@
-<p style="font-size:2em;">Karte</p>
+# Karte
 
 <img src="https://frank-mayer.github.io/psycho-pass-pnp/img/shion.png" style="height:32rem" />
 
