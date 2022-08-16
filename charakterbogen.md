@@ -92,6 +92,7 @@ Drücke `Strg`+ `P` zum drucken.
       "stunts stunts stunts"
       "stunts stunts stunts"
       "stress konsequenzen konsequenzen";
+    max-width: 100%;
   }
 
   .character-sheet > .allgemeines {
