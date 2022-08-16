@@ -85,8 +85,7 @@ Als erstes musst du das Konzept deines Charakters festlegen. Das ist eine Formul
 
 Als nächstes überleg dir, welche Eigenschaft dich immer in Schwierigkeiten bringt. Das kann eine persönliche Schwäche sein, oder ein Feind, der immer wieder auftaucht, oder eine wichtige Verpflichtung. Eben alles, was dein Leben komplizierter macht.
 
-> Beispiel: **_Ich sorge mich mehr als alles andere um die Bewohner des aufgegebenen Bezirks von Myogadani._**
-> **_Ich muss immer den harten Kerl spielen._**
+> Beispiel: **_Ich sorge mich mehr als alles andere um die Bewohner des aufgegebenen Bezirks von Myogadani. Ich muss immer den harten Kerl spielen._**
 
 ### Zusätzliche Aspekte
 
@@ -281,3 +280,74 @@ Jetzt wird es Zeit, zu würfeln. Nimm den Bonus, der bei der Methode steht, die 
 Zuletzt musst du entscheiden, ob du deinen Wurf durch den Einsatz eines Aspekts modifizieren willst. Das erklären wir im Kapitel [Aspekte und Fate-Punkte](#aspekte-und-fate-punkte).
 
 ## Herausforderunge, Wettstreite und Konflikte
+
+Jetzt weißt du über die vier Aktionen (Vorteil erschaffen, Überwinden, Angreifen, Verteidigen) und die vier Ergebnisse (Fehlschlag, Gleichstand, Erfolg, voller Erfolg) Bescheid. Aber in welchem Rahmen soll das denn passieren?
+
+Häufig willst du eine ziemlich klar umrissene Sache machen – du willst durch einen reißenden Fluss schwimmen oder dich in ein Telefon hacken. Das machst du mit der Aktion Überwinden: Du würfelst einmal auf eine Schwierigkeit, die dein GM festlegt, schaust dir das Ergebnis an und von da aus geht es weiter.
+
+Manchmal sind die Dinge aber ein bisschen komplizierter.
+
+### Herausforderungen
+
+Bei einer Herausforderung geht es darum, eine komplexe Situation durch eine Reihe von Überwinden- und Vorteil-erschaffen-Aktionen zu bewältigen. Jede Überwinden-Aktion befasst sich mit einer Teilaufgabe der Gesamtsituation. Die einzelnen Ergebnisse werden dann zusammen betrachtet, um herauszufinden, wie die Situation ausgeht.
+
+Es hängt von der Situation ab, ob ein Charakter mehrere Würfe machen muss oder ob mehrere Charaktere an der Herausforderung teilnehmen können.
+
+### Wettstreit
+
+Wenn zwei oder mehr Charaktere gegeneinander antreten, um das gleiche Ziel zu erreichen, ohne sich gegenseitig verletzen zu wollen, dann ist das ein Wettstreit. Das sind beispielsweise Verfolgungsjagden mit Autos.
+
+Bei einem Wettstreit findet immer ein Austausch nach dem anderen statt. In einem Austausch macht jeder Teilnehmer eine Überwinden- Aktion, um herauszufinden, wie gut er sich positionieren kann. Die Resultate der Aktion werden dann untereinander verglichen.
+
+Wenn du das höchste Resultat hast, dann gewinnst du den Austausch – du bekommst einen Siegpunkt (den kannst du durch einen Strich oder einen Haken auf einem Stück Schmierpapier darstellen) und darfst beschreiben, wie du die Führung übernimmst. Wenn du einen vollen Erfolg schaffst, bekommst du sogar zwei Siegpunkte.
+
+Wenn es einen Gleichstand gibt, bekommt niemand einen Siegpunkt, aber es passiert etwas Unerwartetes.
+
+Der erste Teilnehmer, der drei Siegpunkte erreicht, gewinnt den Wettstreit.
+
+### Konflikte
+
+In einer Situation, in der sich die Charaktere gegenseitig verletzen wollen, benutzt ihr Konflikte. Es ist egal, ob körperlicher Schaden angerichtet werden soll oder ob es um geistigen Schaden geht.
+
+### Leg die Initiative fest
+
+Deine Initiative im Konflikt hängt von deinen Methoden ab. In einem körperlichen Konflikt schaust du, wie Flink du im Vergleich mit den anderen bist – der mit den schnellsten Reflexen fängt an. In einem geistigen Konflikt vergleichst du, wie Sorgfältig du bist – wenn du auf Details achtest, nimmst du Gefahren eher wahr. Derjenige mit der höchsten Methode fängt an, dann kommen die anderen in absteigender Reihenfolge. Einen Gleichstand löst ihr so auf, wie euch das am sinnvollsten erscheint. Der GM hat dabei das letzte Wort.
+
+### Austausch
+
+Als nächstes ist jeder Charakter einmal der Reihe nach dran. Wenn er dran ist, kann ein Charakter eine der vier Aktionen durchführen. Würfelt und legt das Ergebnis fest. Der Konflikt ist vorbei, wenn nur noch eine Seite Charaktere übrig hat, die am Kampf teilnehmen können.
+
+## Aua! – Schaden, Stress und Konsequenzen
+
+Wenn du im Kampf getroffen wirst, hängt es vom Unterschied zwischen dem Resultat des Angriffs und dem Resultat deiner Verteidigung ab, wie schwer du verletzt wirst; wir messen das in Erfolgsstufen. Stell dir vor, dein Gegner schafft beim Angreifen +5 und du beim Verteidigen nur +3, also bekommst du 2 Erfolgsstufen Schaden (5 – 3 = 2).
+
+Dann gibt es zwei Möglichkeiten:
+
+- Du bekommst Stress und / oder Konsequenzen, aber du kannst weiterkämpfen.
+- Du wirst ausgeschaltet, das heißt, du kannst in der nächsten Zeit nichts mehr tun.
+
+### Was ist Stress?
+
+Wenn du getroffen wirst und nicht ausgeschaltet werden willst, dann kannst du Stress nehmen
+
+Stress heißt, dass du müde oder gereizt wirst, dass du eine oberflächliche Wunde bekommst oder dass irgendetwas anderes passiert, von dem du dich schnell wieder erholst.
+
+Auf deinem Charakterbogen steht ein **Stressbalken**, eine Reihe mit drei Kästchen. Wenn du getroffen wirst, kannst du eins dieser Kästchen abstreichen, um die Erfolgsstufen abzufangen. An jedem Kästchen steht eine Nummer – das Kästchen kann so viel Stress abfangen, wie seine Nummer beträgt: Das 1er-Kästchen fängt eine Erfolgsstufe ab, das 2er-Kästchen fängt zwei Erfolgsstufen ab und das 3er-Kästchen fängt drei Erfolgsstufen ab.
+
+Du kannst pro Treffer nur ein Kästchen abstreichen, aber du kannst gleichzeitig ein Kästchen abstreichen und eine oder mehrere Konsequenzen nehmen. Wenn ein Kästchen schon abgestrichen ist, kannst du es nicht noch einmal abstreichen!
+
+### Was sind Konsequenzen?
+
+Konsequenzen sind Aspekte, die du dir aufschreibst, um zu zeigen, dass du ernsthaft verletzt bist. Auf deinem Charakterbogen sind drei Felder, in die du Konsequenzen schreiben kannst. Jedes Feld hat eine Nummer: 2 (leichte Konsequenz), 4 (mittlere Konsequenz) und 6 (schwere Konsequenz). Diese Nummern entsprechen den Erfolgsstufen, die du mit der jeweiligen Konsequenz abfangen kannst. Du kannst pro Treffer so viele Konsequenzen nehmen, wie du willst, wenn das entsprechende Feld noch leer ist. Wenn du schon eine mittlere Konsequenz genommen hast, kannst du nicht noch eine nehmen, bis du etwas getan hast, um dich von der mittleren Konsequenz wieder zu erholen!
+
+Konsequenzen haben einen großen Nachteil: Jede Konsequenz ist ein Aspekt, den dein Gegner gegen dich einsetzen kann. Je mehr du nimmst, desto verwundbarer wirst du. Für Konsequenzen gilt das Gleiche wie für Situationsaspekte: Derjenige, der sie erschafft, kann sie einmal frei einsetzen (das ist in diesem Fall derjenige, der dich getroffen hat). Wenn er will, kann er den freien Einsatz auch einem seiner Verbündeten überlassen.
+
+Wenn du mehr Erfolgsstufen Schaden bekommst, als du mit Stress und Konsequenzen abfangen kannst, dann wirst du ausgeschaltet.
+
+### Was passiert, wenn ich ausgeschaltet werde?
+
+Wenn du ausgeschaltet wirst, kannst du in der Szene nicht mehr handeln. Der GM legt fest, was mit dir passiert. Das sollte natürlich zu der Art und Weise passen, auf die du ausgeschaltet wurdest – vielleicht rennst du vollkommen blamiert aus dem Raum oder verlierst das Bewusstsein nach einem harten Schlag.
+
+### Aufgeben
+
+Wenn es schlecht für dich aussieht, dann kannst du aufgeben das kannst du anstelle einer Aktion machen. Jeder deiner Gruppe entscheidet dann selbst, ob er sich dem anschließt oder weitermachen will.
