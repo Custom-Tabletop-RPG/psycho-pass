@@ -125,7 +125,7 @@ Summe deines Wurfs zu erhalten. Zum Beispiel:
 - `-` + `-` + `+` + `+` = +0
 - <code>&nbsp;</code> + `-` + `+` + `+` = +1
 - <code>&nbsp;</code> + `+` + `+` + `+` = +3
-- `-` + `-` + ``+<code>&nbsp;</code> = -2
+- `-` + `-` + <code>&nbsp;</code> + <code>&nbsp;</code> = -2
 
 **D8:** Wenn du keine _Fate-Würfel_ hast, kannst du einen D8 verwendet. Würfle dazu einmal und subtrahiere 4 vom Ergebnis. Zum Beispiel:
 
