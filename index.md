@@ -2,7 +2,7 @@
 
 # Tabletop RPG
 
-- [Regelwerk](/regelwerk)
-- [Story](/story)
-- [Charakterbogen](/charakterbogen)
-- [Karte](/karte)
+- [Regelwerk](./regelwerk)
+- [Story](./story)
+- [Charakterbogen](./charakterbogen)
+- [Karte](./karte)

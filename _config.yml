@@ -2,4 +2,3 @@ locale: de-DE
 title: Psycho-Pass P&P
 title_separator: "|"
 markdown: kramdown
-baseurl: https://frank-mayer.github.io/psycho-pass-pnp/
