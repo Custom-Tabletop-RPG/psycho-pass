@@ -5,10 +5,6 @@ Basierend auf [Turbo Fate](https://faterpg.de/turbo-fate)
 * TOC
 {:toc}
 
-## Hintergrund
-
-Wir befinden uns in einer Welt, in der der psychische Zustand und die Charaktertendenzen gemessen und quantifiziert werden können. Der gesammte psychische Zustand wird non stop aufgezeichnet und überwacht. Die Messwerte, die zu den Beurteilungskriterien für die Seele des Individuums geworden sind bezeichnet man umgangssprachlich als Psycho Pass. Überschreitet der Kriminalkoeffizient eines Menschen einen bestimmten Wert, wird er als latenter Verbrächer festgenommen. Für die Aufdeckung dieser Verbrechen ist ein riesiges Überwachungsnetzwerk verantwortlich, das Sybil-System.
-
 ## Abkürzungen
 
 - PC: Player Character _Der Charakter eines Spielers_
