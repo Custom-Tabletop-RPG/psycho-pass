@@ -9,12 +9,20 @@ Drücke `Strg`+ `P` zum drucken.
     <label class="right">Name<input type="text" /></label>
     <label class="bottom">Beschreibung<textarea></textarea></label>
   </div>
-  <label class="erholungsrate bottom"
-    >Erholungsrate
-    <textarea></textarea>
-  </label>
+  <div
+    class="erholungsrate"
+    style="display: grid; grid-template-rows: repeat(3, 1fr); gap: 0.2rem"
+  >
+    <label class="right">Klasse<input type="text" /></label>
+    <label class="right"
+      >Kriminalkoeffizient<input type="number" min="0" max="1000"
+    /></label>
+    <label class="right">Erholungsrate<input type="text" /></label>
+  </div>
   <div class="icon">
-    <img src="https://frank-mayer.github.io/psycho-pass-pnp/img/Psycho-pass.logo.svg" />
+    <img
+      src="https://frank-mayer.github.io/psycho-pass-pnp/img/Psycho-pass.logo.svg"
+    />
   </div>
   <div
     class="aspekte"

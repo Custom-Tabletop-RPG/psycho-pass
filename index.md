@@ -2,7 +2,7 @@
 
 # Tabletop RPG
 
-- [Regelwerk](./regelwerk)
-- [Story](./story)
-- [Charakterbogen](./charakterbogen) auch als [PDF](https://github.com/Frank-Mayer/psycho-pass-pnp/releases/download/0.0.1/Psycho-Pass_Charakterbogen.pdf)
-- [Karte](./karte)
+- [Regelwerk](/regelwerk.md)
+- [Story](/story.md)
+- [Charakterbogen](/charakterbogen.md) auch als [PDF (alt)](https://github.com/Frank-Mayer/psycho-pass-pnp/releases/download/0.0.1/Psycho-Pass_Charakterbogen.pdf)
+- [Karte](/karte.md)

@@ -20,6 +20,53 @@ Basierend auf [Turbo Fate](https://faterpg.de/turbo-fate)
 - **Karteikarten, Post-its** oder anderes Schmierpapier, auf dem du etwas notieren kannst.
 - **Marker für Fate-Punkte**. Du kannst Pokerchips, Glasperlen, Centstücke oder etwas Ähnliches dafür verwenden. Davon brauchst du ein paar – am besten so um die dreißig oder vierzig.
 
+## Klasse
+
+Ein PC muss einer der folgenden Klassen angehören:
+
+- Inspektor
+- Vollstrecker
+- Analyst
+- Abtrünniger (nur im Verlauf des Spiels möglich)
+
+Es ist empfehlenswert mit zwei bis vier Inspektoren zu beginnen. Der Rest sollte als Vollstrecker oder Analyst eingesetzt werden.
+
+### Inspektor
+
+Als Inspektor bist du für Führung der Ermittlungen zuständig. Dir gehören mehrere Vollstrecker, denen du Aufgaben zuweisen kannst. Du hast die volle Befehlsgewalt über deine Vollstrecker, sie dürfen sich dir nicht widersetzen. Wenn einer deiner Vollstrecker einen Fehler macht, bist du alleine für die Konsequenzen verantwortlich.
+
+Du darfst im Dienst jede Waffe tragen und im Sinne von Sibyl einsetzen.
+
+### Vollstrecker
+
+Du bist für die Dreckarbeit zuständig. Du darfst ohne die Genemigung deines Inspektors nicht den NONA-Tower verlassen oder außerhalb des NONA-Towers agieren. Solange du dich an die Anweisungen und Absprachen deines Inspektors hältst, folgen keinerlei rechtliche Konsequenzen auf deine Taten.
+
+Zur Bewaffnung mit einem Dominator benötigst du jedes Mal die explizite Genehmigung eines Inspektors.
+
+### Analyst
+
+Du verbringst die meiste Zeit in deinem Labor im NONA-Tower. Du bist für hacking und analysieren zuständig.
+
+### Abtrünniger
+
+Du warst ein Beamter der Kriminalabteilung und hast dich der Kriminalität zugewandt. Du bist ein gesuchter latenter Verbrecher. Dein Beamtenstatus wurde dir entzogen. Dein Kriminalkoeffizient kann nicht unter 300 fallen.
+
+## Kriminalkoeffizient
+
+Der Kriminalkoeffizient gibt die Bereitschaft an, gegen das Gesetz zu verstoßen. Ein gesunder Wert liegt bei etwa 50. Ab 100 gilt ein Mensch alt latenter Verbrecher. Steigt der Kriminalkoeffizient eines PC der Klasse Inspektor oder Analyst über 100, so sind alle Beamten in der Pflicht diesen PC festzunehmen. Der PC gilt dann als latenter Verbrecher und hat die folgende Möglichkeiten:
+
+- Zur Klasse Vollstrecker wechseln
+- Zur Klasse Abtrünniger wechseln
+- Einen neuen Charakter beginnen
+
+### Latente Verbrecher
+
+Ein latenter Verbrecher ist ein Mensch mit einem Kriminalkoeffizient von 100 oder mehr. Bis 300 gilt dieser noch als heilbar und sollte verhaftet werden.
+
+Ab einem Kriminalkoeffizient von 300 sollte der latente Verbrecher umgehend exekutiert werden, da das Sibyl-System keine Chance auf Heilung sieht. Ein solcher latenter Verbrecher hat keinerlei Menschenrechte.
+
+Ausnahmen sind Vollstrecker, sie haben in der Regel einen Kriminalkoeffizienten von etwa 300, sind jedoch im Dienst von Sibyl und unter der Verantwortung ihrer Inspektoren.
+
 ## Aspekte
 
 **Aspekte** sind Schlagworte oder kurze Sätze, die eine Sache beschreiben, die für deinen Charakter zentral und wichtig ist. Das kann alles Mögliche sein: Ein Motto, dem dein Charakter folgt; ein Persönlichkeitsmerkmal, das er aufweist; die Beziehung zu einem anderen Charakter; ein wichtiger Gegenstand oder ein wichtiges Besitztum, das ihm gehört; oder alles andere, das deinen Charakter auszeichnet und ihm wirklich etwas bedeutet.
@@ -38,7 +85,8 @@ Als erstes musst du das Konzept deines Charakters festlegen. Das ist eine Formul
 
 Als nächstes überleg dir, welche Eigenschaft dich immer in Schwierigkeiten bringt. Das kann eine persönliche Schwäche sein, oder ein Feind, der immer wieder auftaucht, oder eine wichtige Verpflichtung. Eben alles, was dein Leben komplizierter macht.
 
-> Beispiel: **_Ich sorge mich mehr als alles andere um die Bewohner des aufgegebenen Bezirks von Myogadani. Ich muss immer den harten Kerl spielen._**
+> Beispiel: **_Ich sorge mich mehr als alles andere um die Bewohner des aufgegebenen Bezirks von Myogadani._**
+> **_Ich muss immer den harten Kerl spielen._**
 
 ### Zusätzliche Aspekte
 
