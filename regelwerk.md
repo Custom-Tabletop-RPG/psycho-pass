@@ -2,8 +2,8 @@
 
 Basierend auf [Turbo Fate](https://faterpg.de/turbo-fate)
 
-- TOC
-  {:toc}
+* TOC
+{:toc}
 
 # Hintergrund
 
