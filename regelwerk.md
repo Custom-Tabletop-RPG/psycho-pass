@@ -15,7 +15,7 @@ Wir befinden uns in einer Welt, in der der psychische Zustand und die Charaktert
 - NPC: Non Player Character _Ein Charakter, der vom Spielleiter gespielt wird_
 - GM: Game Master _Der Spielleiter_
 
-## Du brauchst für das Spiel ein paar Sachen:
+## Du brauchst für das Spiel ein paar Sachen
 
 - **Drei bis fünf Leute**. Einer von euch ist der **GM**, der Rest
   sind die **Spieler** (mit je einem PC). Wir erklären dir gleich, was das genau bedeutet.
@@ -177,7 +177,7 @@ Wenn du irgendetwas tun möchtest, um dir selbst oder deinen Freunden zu helfen,
 - **Bei einem Erfolg:** Du erschaffst oder entdeckst den Aspekt. Du oder ein Verbündeter können ihn einmal frei einsetzen. Schreib den Aspekt auf eine Karteikarte oder ein Post-it und leg ihn in die Mitte.
 - **Bei einem vollen Erfolg:** Du erschaffst oder entdeckst den Aspekt. Du oder ein Verbündeter können ihn zweimal frei einsetzen. Normalerweise kannst du denselben Aspekt nicht zweimal bei einem Wurf einsetzen, aber das hier ist die Ausnahme: Ein voller Erfolg gibt dir einen großen Vorteil!
 
-#### Wenn du einen bestehenden Aspekt zu deinem Vorteil ausnutzen willst:
+##### Wenn du einen bestehenden Aspekt zu deinem Vorteil ausnutzen willst
 
 - **Bei einem Fehlschlag:** Du hast keinen weiteren Vorteil durch diesen Aspekt. Du kannst ihn künftig noch einsetzen, musst dafür aber einen Fate-Punkt zahlen. Schreibe dazu am bessten den Namen des Spielers auf die Karte/Post-it.
 - **Bei einem Gleichstand oder einem Erfolg:** Du erzeugst einen freien Einsatz auf dem Aspekt, den du oder ein Verbündeter benutzen können. Mal einen Kreis oder einen Kasten auf die Karte, auf der der Aspekt steht, und hak ihn ab, wenn du den freien Einsatz benutzt hast.
