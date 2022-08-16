@@ -29,7 +29,7 @@ Ein PC muss einer der folgenden Klassen angehören:
 - Analyst
 - Abtrünniger (nur im Verlauf des Spiels möglich)
 
-Es ist empfehlenswert mit zwei bis vier Inspektoren zu beginnen. Der Rest sollte als Vollstrecker oder Analyst eingesetzt werden.
+Es ist empfehlenswert mit zwei bis vier Inspektoren und einem Analysten zu beginnen. Der Rest sollte als Vollstrecker eingesetzt werden. Ihr könnt aber natührlich auch eine reine Analysten-Truppe bilden, das würde das Gameplay erheblich beeinflussen.
 
 ### Inspektor
 
@@ -77,7 +77,7 @@ Dein Charakter hat eine Handvoll Aspekte (zwischen drei und fünf), darunter sei
 
 ### Konzept
 
-Als erstes musst du das Konzept deines Charakters festlegen. Das ist eine Formulierung oder ein kurzer Satz, der deinen Charakter zusammenfasst – das Konzept sagt uns, wer du bist, was du tust und worum es dir generell geht. Wenn du dir dein Konzept überlegst, denk über zwei Dinge nach: Wie kann dir dieser Aspekt helfen und wie macht dir dieser Aspekt dein Leben schwer? Gute Konzepte machen beides.
+Als erstes musst du das Konzept deines Charakters festlegen. Das ist eine Formulierung oder ein kurzer Satz, der deinen Charakter zusammenfasst – das Konzept sagt aus, wer du bist, was du tust und worum es dir generell geht. Wenn du dir dein Konzept überlegst, denk über zwei Dinge nach: Wie kann dir dieser Aspekt helfen und wie macht dir dieser Aspekt dein Leben schwer? Gute Konzepte machen beides.
 
 > Beispiel: **_Kazumichi Iriei, Vollstrecker, aufgewachsen auf den Straßen des aufgegebenen Bezirks von Myogadani_**
 
@@ -85,15 +85,15 @@ Als erstes musst du das Konzept deines Charakters festlegen. Das ist eine Formul
 
 Als nächstes überleg dir, welche Eigenschaft dich immer in Schwierigkeiten bringt. Das kann eine persönliche Schwäche sein, oder ein Feind, der immer wieder auftaucht, oder eine wichtige Verpflichtung. Eben alles, was dein Leben komplizierter macht.
 
-> Beispiel: **_Ich sorge mich mehr als alles andere um die Bewohner des aufgegebenen Bezirks von Myogadani. Ich muss immer den harten Kerl spielen._**
+> Beispiel: **_Sorgt sich mehr als alles andere um die Bewohner des aufgegebenen Bezirks von Myogadani; Muss immer den harten Kerl spielen_**
 
 ### Zusätzliche Aspekte
 
-Du kannst dir bis zu drei zusätzliche Aspekte ausdenken, die zu deinem Charakter passen. Etwas, das deinen Charakter besonders macht. Diese Aspekte könnten die Beziehung deines Charakters zu einem anderen PC oder einem NPC beschreiben.
+Du kannst dir bis zu drei zusätzliche Aspekte ausdenken, die zu deinem Charakter passen. Etwas, das deinen Charakter besonders macht.
 
 ### Name und Aussehen
 
-Gib deinem Charakter einen Namen und beschreibe, wie er aussieht.
+Gib deinem Charakter einen Namen und beschreibe, wie er aussieht. Bei Inspektoren und Analysten gibt es eine Uniform. Daher kannst du hier nur körperliche Merkmale und die Freizeitkleidung beschreiben.
 
 ### Methoden
 
@@ -141,10 +141,10 @@ Scharfsinnig +3, Tollkühn und Tückisch +2, Flink und Kraftvoll +1, Sorgfältig
 
 ### Stunts und Erholungsrate
 
-Ein **Stunt** ist eine besondere Eigenschaft, die die Art und Weise verändert, wie eine Methode bei deinem Charakter funktioniert. Normalerweise geben Stunts einen Bonus (fast immer +2) auf eine einzelne Methode, wenn du sie unter bestimmten Umständen bei einer festgelegten Aktion verwendest. Im Kapitel _Stunts_ erfährst du mehr darüber, wie Stunts funktionieren.
+Ein **Stunt** ist eine besondere Eigenschaft, die die Art und Weise verändert, wie eine Methode bei deinem Charakter funktioniert. Normalerweise geben Stunts einen Bonus (fast immer +2) auf eine einzelne Methode, wenn du sie unter bestimmten Umständen bei einer festgelegten Aktion verwendest. Im Kapitel [Stunts](#stunts) erfährst du mehr darüber, wie Stunts funktionieren.
 
 Du kannst dir bei der Charaktererschaffung einen Stunt aussuchen. Wenn dein Charakter im Laufe der Zeit besser wird, kannst du noch mehr Stunts auswählen.
-Deine Erholungsrate legt fest, mit wie vielen Fate-Punkten du jede Spielsitzung beginnst. Das gilt nicht, wenn du am Ende der letzten Spielsitzung mehr Fate-Punkte hattest als deine Erholungsrate beträgt – in diesem Fall fängst du mit so vielen Fate-Punkten an, wie du am Ende der letzten Spielsitzung hattest.
+Deine Erholungsrate legt fest, mit wie vielen _Fate-Punkten_ du jede Spielsitzung beginnst. Das gilt nicht, wenn du am Ende der letzten Spielsitzung mehr _Fate-Punkte_ hattest als deine Erholungsrate beträgt – in diesem Fall fängst du mit so vielen _Fate-Punkten_ an, wie du am Ende der letzten Spielsitzung hattest.
 
 Normalerweise liegt deine Erholungsrate bei 3, aber wenn du mehr als drei Stunts hast, musst du pro zusätzlichem Stunt einen Punkt von deiner Erholungsrate abziehen. Im Prinzip sind daher deine ersten drei Stunts kostenlos! Wenn dein Charakter im Laufe der Zeit besser wird, bekommst du die Gelegenheit, deine Erholungsrate zu erhöhen. Deine Erholungsrate darf nie niedriger als 1 sein.
 
@@ -222,7 +222,7 @@ Wenn du irgendetwas tun möchtest, um dir selbst oder deinen Freunden zu helfen,
 
 ##### Wenn du einen bestehenden Aspekt zu deinem Vorteil ausnutzen willst
 
-- **Bei einem Fehlschlag:** Du hast keinen weiteren Vorteil durch diesen Aspekt. Du kannst ihn künftig noch einsetzen, musst dafür aber einen Fate-Punkt zahlen. Schreibe dazu am bessten den Namen des Spielers auf die Karte/Post-it.
+- **Bei einem Fehlschlag:** Du hast keinen weiteren Vorteil durch diesen Aspekt. Du kannst ihn künftig noch einsetzen, musst dafür aber einen _Fate-Punkt_ zahlen. Schreibe dazu am bessten den Namen des Spielers auf die Karte/Post-it.
 - **Bei einem Gleichstand oder einem Erfolg:** Du erzeugst einen freien Einsatz auf dem Aspekt, den du oder ein Verbündeter benutzen können. Mal einen Kreis oder einen Kasten auf die Karte, auf der der Aspekt steht, und hak ihn ab, wenn du den freien Einsatz benutzt hast.
 - **Bei einem vollen Erfolg:** Du erschaffst zwei freie Einsätze auf dem Aspekt, die auch ein Verbündeter nutzen kann, wenn du das möchtest.
 
@@ -241,7 +241,7 @@ Wenn du jemandem weh tun willst – egal, ob körperlich oder geistig – dann g
 
 - Bei einem Fehlschlag: Du triffst deinen Gegner nicht.
 - Bei einem Gleichstand: Du triffst deinen Gegner nicht hart genug, um Schaden zu verursachen, aber du bekommst einen Schub.
-- Bei einem Erfolg: Du triffst und machst Schaden. Siehe im Kapitel [Aua! – Schaden, Stress und Konsequenzen](#aua-schaden-stress-und-konsequenzen).
+- Bei einem Erfolg: Du triffst und machst Schaden. Siehe im Kapitel [Aua! – Schaden, Stress und Konsequenzen](#aua-–-schaden-stress-und-konsequenzen).
 - Bei einem vollen Erfolg: Du triffst und machst Schaden. Außerdem hast du die Möglichkeit, deinen verursachten Schaden um 1 zu senken und dafür einen Schub zu bekommen.
 
 #### Verteidigen
@@ -351,3 +351,103 @@ Wenn du ausgeschaltet wirst, kannst du in der Szene nicht mehr handeln. Der GM l
 ### Aufgeben
 
 Wenn es schlecht für dich aussieht, dann kannst du aufgeben das kannst du anstelle einer Aktion machen. Jeder deiner Gruppe entscheidet dann selbst, ob er sich dem anschließt oder weitermachen will.
+
+### Wie erhole ich mich von Stress und Konsequenzen?
+
+Am Ende jeder Szene kannst du deine Stresskästchen wieder leeren (radier die Striche aus, mit denen du sie abgestrichen hast). Es ist ein bisschen komplizierter, sich von Konsequenzen zu erholen; du musst erklären, wieso es dir jetzt besser geht – vielleicht warst du im Krankenhaus oder hast einen langen Spaziergang gemacht, um dich zu beruhigen, oder was auch immer gut zu der Konsequenz passt. Außerdem musst du eine angemessene Zeit lang warten:
+
+- Leichte Konsequenz: Verschwindet am Ende der Szene, wenn du die Gelegenheit hast, dich ein bisschen auszuruhen.
+- Mittlere Konsequenz: Verschwindet am Ende der nächsten Sitzung, wenn es in der Geschichte plausibel ist.
+- Schwere Konsequenz: Verschwindet am Ende des Szenarios, wenn es in der Geschichte plausibel ist.
+
+#### Mittlere und schwerre Konsequenzen umwandeln
+
+Mittlere und schwere Konsequenzen bleiben eine Weile erhalten. Es kann also passieren, dass du den Aspekt umwandeln musst, damit er besser zu dem passt, was in der Geschichte vor sich geht. Vielleicht hast du die Konsequenz `gebrochenes Bein` von einem Arzt behandeln lassen und es passt besser, sie jetzt `Hinkt mit einer Krücke herum` zu nennen.
+
+## Aspekte und Fate-Punkte
+
+Ein **Aspekt** ist ein Wort oder eine Formulierung, die etwas Besonderes an einer Person, einem Ort, einem Gegenstand, einer Situation oder einer Gruppe beschreibt. Fast alles, was dir so einfällt, kann Aspekte haben. Eine Person könnte `der größte Shogi-Spieler Japans` sein. Ein Zimmer könnte `in Brand` gesetzt sein, nachdem du dort eine Öllampe umgeworfen hast. Nach einer Begegnung mit einem zeitreisenden Dinosaurier bist du vielleicht `voller Angst`. Wenn du das Potential eines Aspekts ausschöpfen willst, sodass er dich unterstützt, dann musst du _Fate-Punkte_ ausgeben. Du kannst deine _Fate-Punkte_ mit Glassteinen, Kleingeld, Pokerchips oder anderen Markern darstellen und im Blick behalten. Du bekommst _Fate-Punkte_, wenn du zulässt, dass einer deiner Charakteraspekte gegen dich [gereizt](#aspekte-reizen) wird und damit die Situation verkompliziert oder dir das Leben schwer macht. Merk dir, wie viele _Fate-Punkte_ du am Ende einer Sitzung hast – wenn du mehr _Fate-Punkte_ hast, als deine Erholungsrate beträgt, dann fängst du am Anfang der nächsten Sitzung mit dieser Anzahl an _Fate-Punkten_ wieder an.
+
+Wenn unser Beispielcharakter Kazumichi Iriei zu einer Mutprobe aufgefordert wird, bekommt er einen _Fate-Punkt_ wenn er sich darauf einlässt, da sein [Dilemma](#dilemma) `muss immer den harten Kerl spielen` [gereizt](#aspekte-reizen) wird.
+
+> _Du hast in der letzten Sitzung richtig viele Fate-Punkte bekommen und besitzt am Ende fünf davon. Deine Erholungsrate ist 2, also fängst du in der nächsten Sitzung mit 5 Fate-Punkten an. Aber ein anderer Spieler hat am Ende der Sitzung nur noch einen Fate-Punkt. Seine Erholungsrate ist 3, also fängt er in der nächsten Sitzung mit 3 Fate-Punkten an (nicht nur mit dem einen, den er noch übrig hatte)._
+
+### Was gibt es denn für Aspekte?
+
+Es gibt natürlich endlos viele Aspekte, aber egal, wie sie heißen, sie funktionieren eigentlich alle gleich. Sie unterscheiden sich am meisten dadurch, wie lange sie überhaupt vorhanden sind.
+
+#### Charakteraspekte
+
+Das sind die Aspekte auf deinem Charakterbogen, z.B. dein Konzept und dein Dilemma. Sie beschreiben Persönlichkeitsmerkmale, wichtige Sachen aus deiner Vergangenheit, deine Beziehungen mit anderen oder auch wichtige Gegenstände und Titel, die zu dir gehören, Probleme, mit denen du dich beschäftigst, Ziele, auf die du hin arbeitest, einen Ruf, der dir anhaftet, oder eine Verpflichtung, der du nachkommen musst. Diese Aspekte verändern sich nur selten und unter ungewöhnlichen Umständen, die meisten bleiben bestehen.
+
+**Beispiele:** `Blick fürs Detail`, `ich muss auf meinen Bruder aufpassen`, ``
+
+#### Situationsaspekte
+
+Solche Aspekte beschreiben die Umgebung, in der die Handlung stattfindet. Dazu gehören auch Aspekte, die du erschaffst oder entdeckst, wenn du dir mit einer Aktion einen _Vorteil erschaffst_. Ein Situationsaspekt verschwindet normalerweise am Ende der Szene, in der er aufgetaucht ist, oder wenn jemand etwas tut, um ihn zu verändern oder loszuwerden. Im Prinzip hält er nur so lange, wie die Situation besteht, in der er relevant ist.
+
+**Beispiele:** `Brennt lichterloh`, `heller Sonnenschein`, `zu Boden geschleudert`
+
+Um einen Situationsaspekt loszuwerden, musst du ihn mit einer Aktion überwinden. Das geht nur, wenn du erklären kannst, wie dein Charakter das machen will – du könntest einen Eimer Wasser auf einen `gefährlichen Brandherd` schütten oder den gegnerischen Kämpfer, der dir `dicht auf den Fersen` ist, ausmanövrieren. Ein Gegner kann sich verteidigen, um den Aspekt zu erhalten, wenn er beschreiben kann, wie er das macht.
+
+#### Konsequenzen
+
+Diese Aspekte beschreiben Verletzungen oder andere Traumata. Sie entstehen, wenn du von einem Angriff getroffen wirst. Sie verschwinden relativ langsam. Das wird im [Kapitel Aua! – Schaden, Stress und Konsequenzen](#aua-–-schaden-stress-und-konsequenzen) genauer erklärt.
+
+**Beispiele:** `Verstauchter Knöchel`, `Angst vor Spinnen`, `Gehirnerschütterung`, `lähmende Selbstzweifel`
+
+> Spieler gegen Spieler: **_Der PC bekommt den Fate-Punkte nicht, wenn er sich im Konflikt mit einem anderen PC befindet. In diesem Fall bekommt er den Fate-Punkt am Ende der Szene._**
+
+### Was mache ich mit Aspekten?
+
+Es gibt drei wichtige Dinge, die du mit Aspekten machen kannst: Du kannst Aspekte **einsetzen**, Aspekte können **gereizt** werden und Aspekte werden verwendet, um **Fakten einzuführen**.
+
+#### Aspekte einsetzen
+
+Du setzt einen Aspekt ein, um einen Bonus zu bekommen oder einem Gegner das Leben etwas schwerer zu machen. Du kannst jeden Aspekt einsetzen, den du a) kennst und bei dem du b) erklären kannst, wieso er dir jetzt gerade nützt – das schließt Aspekte anderer Charaktere oder Situationsaspekte ausdrücklich mit ein. Normalerweise kostet der Einsatz eines Aspekts einen Fate-Punkt, d.h. du gibst dem GM einen deiner _Fate-Punkte_. Damit du den Aspekt einsetzen kannst, musst du beschreiben, wie dir dieser Aspekt jetzt gerade in der augenblicklichen Situation weiterhilft.
+
+- Ich will diesen Kerl so richtig erschrecken. Ich weiß, dass er Angst vor Spinnen hat, also lasse ich eine Spinne in seinem Schlafzimmer frei.
+- Da die Wache jetzt Abgelenkt ist, sollte ich einfach an ihr vorbeischleichen können.
+
+Was hast du davon, wenn du einen Aspekt einsetzt? Du kannst dir eine der folgenden Optionen aussuchen:
+
+- Du bekommst einen Bonus von +2 auf das Resultat deines Wurfs. Das kostet einen _Fate-Punkt_.
+- Du kannst einen Wurf wiederholen. Diese Option lohnt sich am ehesten, wenn du richtig mies gewürfelt hast (bei -3 oder -4 vielleicht). Das kostet einen _Fate-Punkt_.
+- Verwende den Aspekt gegen einen Gegner. Das kannst du machen, wenn dein Gegner etwas tun will und du der Meinung bist, ein bestehender Aspekt würde ihm die Sache schwerer machen. Stell dir vor, der Verbrecher will seine Pistole ziehen, ist aber `Unter Schutt begraben`, dann kannst du einen _Fate-Punkt_ ausgeben, um den Aspekt einzusetzen. Jetzt ist die Schwierigkeit deines Gegners für seine Aktion um +2 höher.
+- Hilf einem Verbündeten mit dem Aspekt. Das kannst du machen, wenn ein Freund Hilfe brauchen könnte und du der Meinung bist, ein bestehender Aspekt würde ihm die Sache leichter machen. Du gibst einen _Fate-Punkt_ aus, um den Aspekt einzusetzen. Jetzt bekommt dein Freund einen Bonus von +2 auf seinen Wurf.
+
+> Beispiel: **_Der GM sagt, dass dein Gegner `teilweise unter Schutt begraben` ist und dass er seine Waffe aus dem Holster zieht, wovon er nicht vom Schutt beeinflusst wird. Du kannst dann einen Fate-Punkt ausgeben, damit der Schutt den Gegner beim ziehen der Waffe negativ beeinflusst_**
+
+> Wichtig: **_Wichtig: Du kannst einen Aspekt nur einmal bei einem Wurf einsetzen. Du kannst keinen Stapel Fate-Punkte ausgeben, um denselben Aspekt für einen Wurf mehrfach einzusetzen und einen fetten Bonus zu bekommen. Du kannst aber mehrere verschiedene Aspekte bei einem Wurf einsetzen._**
+
+Wenn du einen Aspekt einsetzt, um +2 zu bekommen oder neu zu würfeln, dann warte damit, bis du gewürfelt hast. Es ist Unsinn, einen Fate-Punkt auszugeben, wenn du ihn gar nicht brauchst!
+
+**Freier Einsatz:** Manchmal kannst du einen Aspekt frei einsetzen, ohne einen Fate-Punkt zu bezahlen. Wenn du die Aktion **Vorteil erschaffen** benutzt, um einen Aspekt zu erschaffen oder zu entdecken, dann ist der erste Einsatz dieses Aspekts (durch dich oder durch einen deiner Verbündeten) frei (bei einem vollen Erfolg sind es sogar zwei freie Einsätze). Wenn du beim Angreifen eine Konsequenz verursachst, dann können du oder einer deiner Verbündeten sie einmal frei einsetzen. Ein **Schub** ist ein spezieller Aspekt, der einen freien Einsatz hat und danach verschwindet.
+
+#### Aspekte reizen
+
+Manchmal kommst du in eine Situation, in der dein Leben aufregender, komplizierter oder dramatischer wird, weil du einen bestimmten Aspekt hast oder sich ein bestimmter Aspekt in deiner Nähe befindet. In so einer Situation kann jeder den Aspekt **reizen**. Das kannst du auch selber machen – wir nennen das dann „du reizt dich selbst“. Spieler bekommen die meisten _Fate-Punkte_ deswegen, weil ein Aspekt gegen sie gereizt wurde.
+
+Es gibt zwei Möglichkeiten, einen Aspekt zu reizen:
+
+**Entscheidung:** Hier geht es darum, dass der gereizte Aspekt dir vorschlägt, wie du dich in einer bestimmten Situation entscheiden könntest. Du bist zum Beispiel gezwungen eine Herausforderung anzunehmen.
+
+**Ereignis:** Hier geht es darum, dass wegen des gereizten Aspekts ein Ereignis eintritt, das dir das Leben schwer macht. Wenn du häufig Pech mit Elektronik hast, dann ist es ja klar, dass das Stehlen von Dateien wärend eines gefährlichen Einbruchs besonders lange dauert.
+
+Wie auch immer, wenn ein Aspekt gegen dich gereizt wird, dann bietet dir derjenige, der den Aspekt reizt, einen Fate-Punkt an und schlägt vor, dass der Aspekt einen bestimmten Effekt auslöst – dass du eine bestimmte Entscheidung triffst oder dass ein bestimmtes Ereignis eintritt.
+Wenn du einverstanden bist, dann bekommst du den Fate-Punkt und dein Charakter trifft die vorgeschlagene Entscheidung bzw. das vorgeschlagene Ereignis tritt ein. Wenn du das Reizen ablehnst, musst du dafür einen Fate-Punkt bezahlen. **Ja, das bedeutet, dass du nicht ablehnen kannst, wenn du keine Fate-Punkte mehr hast!**
+
+#### Fakten einführen
+
+Zu guter Letzt kannst du Aspekte benutzen, um Fakten in die Spielwelt einzuführen. Dazu musst du weder Fate-Punkte ausgeben noch würfeln – allein schon dadurch, dass dein Charakter den Aspekt Pilot der Rostgans hat, hast du eingeführt, dass dein Charakter ein Pilot ist und dass es ein Flugzeug namens Rostgans gibt.
+
+## Stunts
+
+Stunts sind Tricks, Manöver oder Techniken, die dein Charakter hat. Sie verändern die Art und Weise, wie eine Methode für ihn funktioniert. Meistens bekommst du einfach in bestimmten Situationen einen Bonus, aber manchmal kriegst du durch den Stunt eine Spezialfertigkeit oder eine besondere Eigenschaft. Wenn du Zugriff auf einen speziellen, hochwertigen oder exotischen Gegenstand hast, der dafür sorgt, dass du deinen Gegnern oft überlegen bist, kannst du auch das mit einem Stunt abbilden.
+
+Zum Beispiel:
+
+- Weil ich **Rätsel liebe**, bekomme ich einen Bonus von +2, wenn ich mit einem **Rätsel, einer Denkaufgabe oder einem anderen Mysterium konfrontiert** werde und dabei **scharfsinnig das Problem überwinde**.
+- Weil ich ein **erstklassiger Duellant** bin, bekomme ich einen Bonus von +2, wenn ich **allein gegen einen einzelnen Gegner kämpfe** und dabei **tollkühn angreife**.
+- Weil ich **gute Kontakte** habe, kann ich einmal pro Sitzung **einen hilfreichen Verbündeten genau am richtigen Ort finden**.
+- Weil ich **richtig schnell ziehe**, kann ich einmal pro Sitzung festlegen, dass ich **bei einem körperlichen Konflikt als Erster an die Reihe komme**.
