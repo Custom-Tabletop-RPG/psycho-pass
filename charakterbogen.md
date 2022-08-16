@@ -14,7 +14,7 @@ Drücke `Strg`+ `P` zum drucken.
     <textarea></textarea>
   </label>
   <div class="icon">
-    <img src="./img/Psycho-pass.logo.svg" />
+    <img src="https://frank-mayer.github.io/psycho-pass-pnp/img/Psycho-pass.logo.svg" />
   </div>
   <div
     class="aspekte"
