@@ -235,3 +235,5 @@ Jetzt wird es Zeit, zu würfeln. Nimm den Bonus, der bei der Methode steht, die 
 ### Wurf modifizieren
 
 Zuletzt musst du entscheiden, ob du deinen Wurf durch den Einsatz eines Aspekts modifizieren willst. Das erklären wir im Kapitel [Aspekte und Fate-Punkte](#aspekte-und-fate-punkte).
+
+## Herausforderunge, Wettstreite und Konflikte
