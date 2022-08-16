@@ -63,7 +63,7 @@ Der Kriminalkoeffizient gibt die Bereitschaft an, gegen das Gesetz zu verstoßen
 
 Als Verbrechen wird alles gewertet, was das Sibyl-System (der GM) als negativ für die Gesellschaft Japans ansieht. Alles was nicht von Sibyl als Verbrechen gewertet wird, ist auch keines. Sibyl kenn keine Moral, sondern agiert rein rational.
 
-Davon ausgehend, dass der GM nicht die Gedanken seiner Spieler überprüfen kann, werden nur Gespräche und Taten gewertet. Out Time Gespräche werden ebenfalls gewertet, da Sibyl nicht darauf angewiesen ist, dass jemand aktiv etwas tut. Es heißt ja auch **latenter** Verbrecher.
+Davon ausgehend, dass der GM nicht die Gedanken seiner Spieler überprüfen kann, werden nur Gespräche und Taten gewertet. Out-Time/Out-of-Game Gespräche werden ebenfalls gewertet, da Sibyl nicht darauf angewiesen ist, dass jemand aktiv etwas tut. Es heißt ja auch **latenter** Verbrecher.
 
 > Sollte der GM doch Gedanken lesen können, werden diese selbstverständlich in die Wertung des Psycho-Pass eingebunden.
 
