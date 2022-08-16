@@ -1,6 +1,6 @@
 # Story
 
-Wir befinden uns in einer Welt, in der der psychische Zustand und die Charaktertendenzen gemessen und quantifiziert werden können. Der gesammte psychische Zustand wird non stop aufgezeichnet und überwacht. Die Messwerte, die zu den Beurteilungskriterien für die Seele des Individuums geworden sind bezeichnet man umgangssprachlich als Psycho Pass. Überschreitet der Kriminalkoeffizient eines Menschen einen bestimmten Wert, wird er als latenter Verbrächer festgenommen. Für die Aufdeckung dieser Verbrechen ist ein riesiges Überwachungsnetzwerk verantwortlich, das Sybil-System.
+Wir befinden uns in einer Welt, in der der psychische Zustand und die Charaktertendenzen gemessen und quantifiziert werden können. Der gesammte psychische Zustand wird non stop aufgezeichnet und überwacht. Die Messwerte, die zu den Beurteilungskriterien für die Seele des Individuums geworden sind bezeichnet man umgangssprachlich als Psycho Pass. Überschreitet der Kriminalkoeffizient eines Menschen einen bestimmten Wert, wird er als latenter Verbrächer festgenommen. Für die Aufdeckung dieser Verbrechen ist ein riesiges Überwachungsnetzwerk verantwortlich, das Sibyl-System.
 
 ## Southeast Asia Union (SEAUn)
 
@@ -47,10 +47,10 @@ Diese Personen sind, mit Unterstützungsaufgaben für alle Abteilungen betraut. 
 | 2061       | Einrichtung des Sibyl-Systems und Durchsetzung der Isolationspolitik.                                                                 |
 | 2071       | Durchsetzung des Sibylle-Systems.                                                                                                     |
 | 2081       | Stabilität durch das Sibyl-System.                                                                                                    |
-| 2091       | Adaption der Kriminalkoeffizienten-Technologie durch das Sybil-System.                                                                |
+| 2091       | Adaption der Kriminalkoeffizienten-Technologie durch das Sibyl-System.                                                                |
 | 2099.05    | "Season of Hell", in der 184 Menschen bei einem Flugzeugabsturz am Berg Kumataka sterben.                                             |
 | 2110.03    | Joshu Kasei erklärt den Fall "Specimen" für abgeschlossen, ungelöst.                                                                  |
 | 2114.11.15 | Es kommt zum Hungry-Chicken-Zwischenfall, bei dem mehrere Inspektoren und Vollstrecker bei der Ausübung ihrer Pflicht getötet werden. |
-| 2116.07    | SEAUn exportiert das Sybil-System nach Shambala Float.                                                                                |
+| 2116.07    | SEAUn exportiert das Sibyl-System nach Shambala Float.                                                                                |
 | 2120.12.21 | Terroristische Serienbombenanschläge.                                                                                                 |
 | 2121.01.26 | Koichi Azusawa griff das Büro für öffentliche Sicherheit an.                                                                          |

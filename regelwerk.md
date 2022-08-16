@@ -33,7 +33,7 @@ Es ist empfehlenswert mit zwei bis vier Inspektoren zu beginnen. Der Rest sollte
 
 ### Inspektor
 
-Als Inspektor bist du für Führung der Ermittlungen zuständig. Dir gehören mehrere Vollstrecker, denen du Aufgaben zuweisen kannst. Du hast die volle Befehlsgewalt über deine Vollstrecker, sie dürfen sich dir nicht widersetzen. Wenn einer deiner Vollstrecker einen Fehler macht, bist du alleine für die Konsequenzen verantwortlich.
+Als Inspektor bist du für die Führung der Ermittlungen zuständig. Dir gehören mehrere Vollstrecker, denen du Aufgaben zuweisen kannst. Du hast die volle Befehlsgewalt über deine Vollstrecker, sie dürfen sich dir nicht widersetzen. Wenn einer deiner Vollstrecker einen Fehler macht, bist du alleine für die Konsequenzen verantwortlich.
 
 Du darfst im Dienst jede Waffe tragen und im Sinne von Sibyl einsetzen.
 
@@ -49,7 +49,7 @@ Du verbringst die meiste Zeit in deinem Labor im NONA-Tower. Du bist für hackin
 
 ### Abtrünniger
 
-Du warst ein Beamter der Kriminalabteilung und hast dich der Kriminalität zugewandt. Du bist ein gesuchter latenter Verbrecher. Dein Beamtenstatus wurde dir entzogen. Dein Kriminalkoeffizient kann nicht unter 300 fallen.
+Du warst ein Beamter der Kriminalabteilung und hast dich der Kriminalität zugewandt. Du bist ein gesuchter latenter Verbrecher. Dein Beamtenstatus wurde dir entzogen. Dein Kriminalkoeffizient kann nicht unter 100 fallen.
 
 ## Kriminalkoeffizient
 
