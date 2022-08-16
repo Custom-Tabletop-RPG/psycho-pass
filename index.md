@@ -4,5 +4,5 @@
 
 - [Regelwerk](./regelwerk)
 - [Story](./story)
-- [Charakterbogen](./charakterbogen)
+- [Charakterbogen](./charakterbogen) auch als [PDF](https://github.com/Frank-Mayer/psycho-pass-pnp/releases/download/0.0.1/Psycho-Pass_Charakterbogen.pdf)
 - [Karte](./karte)
