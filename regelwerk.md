@@ -70,9 +70,9 @@ Davon ausgehend, dass der GM nicht die Gedanken seiner Spieler überprüfen kann
 Beispiele:
 
 - Lässt ein _Analyst_ Vorschungsergebnisse verschwinden lässt das den Kriminalkoeffizient **steigen**.
-- Verstößt ein Vollstrecker gegen die Befehle seines Inspektors, wird der Kriminalkoeffizient **steigen**.
+- Verstößt ein _Vollstrecker_ gegen die Befehle seines _Inspektors_, wird der Kriminalkoeffizient **steigen**.
 - Das unerlaubte entwenden von Eigentum eines anderen Individuums (auch als stehlen bezeichnet), lässt den Kriminalkoeffizient **steigen**.
-- Versucht ein Inspektor oder ein Vollstrecker einen als latenten Verbrecher (>300) eingestuften Menschen zu beruhigen, um dessen Kriminalkoeffizient zu senken (<300), wird der Kriminalkoeffizient des Inspektors/Vollstreckers **sinken**.
+- Versucht ein _Inspektor_ oder ein _Vollstrecker_ einen als latenten Verbrecher (>300) eingestuften Menschen zu beruhigen, um dessen Kriminalkoeffizient zu senken (<300), wird der Kriminalkoeffizient des _Inspektors_ / _Vollstreckers_ **sinken**.
 
 ### Latente Verbrecher
 
