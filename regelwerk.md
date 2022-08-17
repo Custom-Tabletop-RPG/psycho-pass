@@ -513,9 +513,9 @@ Einen großen Meilenstein erreicht ihr normalerweise nach einem großen Einschni
 
 ### Kazumichi Iriei
 
-Ich wuchs im aufgegebenen Bezirk von Myogadani auf und kenne mich daher gut mit solchen Gebieten, ihren Bewohnern und kriminellen Elementen aus. Während dieser Zeit arbeitete ich für Haruki Enomiya, bis ich begann, das Informationsnetzwerk des Bezirks mit Akane Tsunemori (Inspektorin der Kriminalabteilung) zu teilen. Später wurde ich von Mika Shimotsuki (Inspektorin der Kriminalabteilung) rekrutiert, um ein Vollstrecker zu werden.
+<img src="https://frank-mayer.github.io/psycho-pass-pnp/img/Kazumichi.webp" style="max-height:18rem;object-fit:contain;float:left;border-left:transparent 0.5rem solid;shape-outside:url(https://frank-mayer.github.io/psycho-pass-pnp/img/Kazumichi.webp)" />
 
-<img src="https://frank-mayer.github.io/psycho-pass-pnp/img/Kazumichi.webp" style="max-height:24rem;object-fit:contain;float:left;border-left:transparent 0.5rem solid;shape-outside:url(https://frank-mayer.github.io/psycho-pass-pnp/img/Kazumichi.webp)" />
+Ich wuchs im aufgegebenen Bezirk von Myogadani auf und kenne mich daher gut mit solchen Gebieten, ihren Bewohnern und kriminellen Elementen aus. Während dieser Zeit arbeitete ich für Haruki Enomiya, bis ich begann, das Informationsnetzwerk des Bezirks mit Akane Tsunemori (Inspektorin der Kriminalabteilung) zu teilen. Später wurde ich von Mika Shimotsuki (Inspektorin der Kriminalabteilung) rekrutiert, um ein Vollstrecker zu werden.
 
 **Klasse:** Vollstrecker
 
