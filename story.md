@@ -16,6 +16,19 @@ Das Amt für öffentliche Sicherheit des Ministeriums für Gesundheit und Wohlbe
 
 Die Kriminalabteilung (japanisch: 刑事課所属) ist die Abteilung innerhalb des Amtes für öffentliche Sicherheit, die für die Verbrechensbekämpfung zuständig ist. Zu ihren Mitgliedern gehören Inspektoren, die Fälle untersuchen, Vollstrecker, die die Routinearbeit vor Ort verrichten, und Analysten, die von ihren Labors im NONA-Turm aus helfen. Im NONA-Turm befinden sich auch Zellen für Gefangene, Schlafsäle für die Vollstrecker, verschiedene Labore für die Analytiker und andere Büro- und Versorgungsräume.
 
+#### Bekannte Mitglieder
+
+- Akane Tsunemori (ehmalig)
+- Shinya Kogami (ehmalig)
+- Nobuchika Ginoza (ehmalig)
+- Teppei Sugo (ehmalig)
+- Mika Shimotsuki
+- Arata Shindo
+- Sakuya Togane
+- Risa Aoyanagi
+- Kei Mikhail Ignatov
+- Yayoi Kunizuka
+
 #### Farbton-Checks
 
 Farbtöne sind eine visuelle Darstellung eines Psycho-Passes, die zeigt, wann eine Person glücklich, traurig, wütend oder deprimiert ist, und zwar im Verhältnis zur Zeit. Die Kriminalabteilung arbeitet mit Straßenscannern, die den Psycho-Pass einer Person scannen, zusammen mit der Bewertung des Farbtons und des Kriminalkoeffizienten sowie einem Diagramm, das den Verlauf dieser Werte anzeigt. Die Beamten können auch ihren Dominator einsetzen, die diese Werte sofort berechnen. Wenn ein Farbton verarbeitet wird, gibt es ihn in verschiedenen Farben. Jemand, dessen Farbton in bestem Zustand ist, hat helle Farben wie Rosa, Puderblau oder Hellviolett, während jemand mit einem schlechten Farbton in dunkleren Farben wie Gelbgrün, Stahlblau oder Waldgrün erscheint, bis er schließlich bis zur Unkenntlichkeit getrübt und schwarz wird.
@@ -35,6 +48,20 @@ Die Vollstrecker sind das wichtigste Kraftwerk der Kriminalabteilung. Alle Volls
 ##### Die Analysten
 
 Diese Personen sind, mit Unterstützungsaufgaben für alle Abteilungen betraut. Sie messen und verarbeiten die Kriminalkoeffizienten von Straftätern und führen Datenanalysen durch. Sie tragen weiße Laborkittel.
+
+## Ausenministerium, Operations Department, Aktionseinheit
+
+Eine Dienststelle der japanischen Regierung, deren Schwerpunkt auf der Bekämpfung von Terrorismus, Korruption, organisiertem Verbrechen, Internetkriminalität und Bürgerrechtsverletzungen sowie auf der Untersuchung von schweren Verbrechen wie schweren Diebstählen oder Morden und Angelegenheiten im Zusammenhang mit der Strafverfolgung liegt.
+
+Ihre Struktur und Aufgaben ähneln denen des Amtes für öffentliche Sicherheit, aber ihre Zuständigkeit erstreckt sich auf Angelegenheiten außerhalb der Grenzen Japans sowie auf Verbrechen, die die Grenzen Japans überschreiten (z. B. Schmuggel).
+
+#### Bekannte Mitglieder
+
+- Assistant Officer Frederica Hanashiro
+- Akane Tsunemori
+- Shinya Kogami
+- Nobuchika Ginoza
+- Teppei Sugo
 
 ## Timeline
 
