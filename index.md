@@ -12,18 +12,21 @@
 
 <style>
 .cover {
-  width: min(600px, 100%);
-  margin: 0 auto
-  height: 600px;
+  width: min(800px, 100%);
+  margin: 0 auto;
   display: grid; 
   grid-template-columns: repeat(3, 1fr); 
   grid-template-rows: repeat(3, 1fr); 
   gap: 0; 
 }
 
+.cover img {
+  background: none !important;
+}
+
 @media only screen and (max-width: 600px) {
-.kogami { grid-area: 1 / 1 / 4 / 3; }
-.makishima { grid-area: 2 / 2 / 4 / 4; }
+  .kogami { grid-area: 1 / 1 / 4 / 3; }
+  .makishima { grid-area: 2 / 2 / 4 / 4; }
 }
 
 @media only screen and (min-width: 600px) {
