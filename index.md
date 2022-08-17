@@ -1,6 +1,33 @@
 <img src="https://frank-mayer.github.io/psycho-pass-pnp/img/Psycho-pass.logo.svg" style="width:100%;height:auto;" />
 
-- [Regelwerk](/regelwerk.md)
 - [Story](/story.md)
-- [Charakterbogen](/charakterbogen.md) auch als [PDF (alt)](https://github.com/Frank-Mayer/psycho-pass-pnp/releases/download/0.0.1/Psycho-Pass_Charakterbogen.pdf)
 - [Karte](/karte.md)
+- [Regelwerk](/regelwerk.md)
+- [Charakterbogen](/charakterbogen.md)
+
+<div class="cover">
+    <img class="kogami" src="https://frank-mayer.github.io/psycho-pass-pnp/img/kogami.webp"/>
+    <img class="makishima" src="https://frank-mayer.github.io/psycho-pass-pnp/img/makishima.webp"  />
+</div>
+
+<style>
+.cover {
+  width: min(600px, 100%);
+  margin: 0 auto
+  height: 600px;
+  display: grid; 
+  grid-template-columns: repeat(3, 1fr); 
+  grid-template-rows: repeat(3, 1fr); 
+  gap: 0; 
+}
+
+@media only screen and (max-width: 600px) {
+.kogami { grid-area: 1 / 1 / 4 / 3; }
+.makishima { grid-area: 2 / 2 / 4 / 4; }
+}
+
+@media only screen and (min-width: 600px) {
+  .kogami { grid-area: 1 / 1 / 3 / 3; }
+  .makishima { grid-area: 2 / 2 / 4 / 4; }
+}
+</style>
