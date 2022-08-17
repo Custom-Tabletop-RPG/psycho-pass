@@ -19,7 +19,7 @@ Basierend auf [Turbo Fate](https://faterpg.de/turbo-fate)
 - _Charakterbögen_, einen pro PC. Den Charakterbogen findest du [hier](/charakterbogen.md).
 - **Karteikarten, Post-its** oder anderes Schmierpapier, auf dem du etwas notieren kannst.
 
-## Klasse
+## Klassen
 
 Ein PC muss einer der folgenden Klassen angehören:
 
@@ -36,15 +36,23 @@ Als Inspektor bist du für die Führung der Ermittlungen zuständig. Dir gehöre
 
 Du darfst im Dienst jede Waffe tragen und im Sinne von Sibyl einsetzen.
 
+Du beginnst mit einem Kriminalkoeffizienten von `2 D20`.
+
 ### Vollstrecker
 
 Du bist für die Dreckarbeit zuständig. Du darfst ohne die Genemigung deines Inspektors nicht den NONA-Tower verlassen oder außerhalb des NONA-Towers agieren. Solange du dich an die Anweisungen und Absprachen deines Inspektors hältst, folgen keinerlei rechtliche Konsequenzen auf deine Taten.
 
 Zur Bewaffnung mit einem [Dominator](#dominator) benötigst du jedes Mal die explizite Genehmigung eines Inspektors.
 
+Du beginnst mit einem Kriminalkoeffizienten von `300` + `1 D100` + `4 D20`.
+
 ### Analyst
 
 Du verbringst die meiste Zeit in deinem Labor im NONA-Tower. Du bist für hacking und analysieren zuständig.
+
+Ob du als Analyst den NONA-Tower verlassen und in den Auseneinsatz darfst, legt der GM für die gesamte Kampagne fest.
+
+Du beginnst mit einem Kriminalkoeffizienten von `3 D20`.
 
 ### Abtrünniger
 
