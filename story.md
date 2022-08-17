@@ -1,8 +1,10 @@
 # Story
 
-<img src="https://frank-mayer.github.io/psycho-pass-pnp/img/kagari.webp" style="max-height:24rem;object-fit:contain;float:right;shape-outside:url(https://frank-mayer.github.io/psycho-pass-pnp/img/kagari.webp)" />
+<img src="https://frank-mayer.github.io/psycho-pass-pnp/img/kagari.webp" style="max-width:50vw;max-height:16rem;object-fit:contain;float:right;shape-outside:url(https://frank-mayer.github.io/psycho-pass-pnp/img/kagari.webp)" />
 
 Du willst wissen, wie die Welt von Psycho-Pass überhapt funktioniert? Begriffe wie Kriminalkoeffizient oder Sibyl sagen dir überhaupt nichts? Dann bist du hier genau richtig!
+
+<hr />
 
 Wir befinden uns in einer Welt, in der der psychische Zustand und die Charaktertendenzen gemessen und quantifiziert werden können. Der gesammte psychische Zustand wird non stop aufgezeichnet und überwacht. Die Messwerte, die zu den Beurteilungskriterien für die Seele des Individuums geworden sind bezeichnet man umgangssprachlich als Psycho Pass. Überschreitet der Kriminalkoeffizient eines Menschen einen bestimmten Wert, wird er als latenter Verbrächer festgenommen. Für die Aufdeckung dieser Verbrechen ist ein riesiges Überwachungsnetzwerk verantwortlich, das Sibyl-System.
 
@@ -55,7 +57,7 @@ Diese Personen sind, mit Unterstützungsaufgaben für alle Abteilungen betraut. 
 
 ## Ausenministerium, Aktionseinheit
 
-<img src="https://frank-mayer.github.io/psycho-pass-pnp/img/tsunemori.webp" style="max-height:24rem;object-fit:contain;float:right;shape-outside:url(https://frank-mayer.github.io/psycho-pass-pnp/img/tsunemori.webp)" />
+<img src="https://frank-mayer.github.io/psycho-pass-pnp/img/tsunemori.webp" style="max-height:24rem;max-width:50vw;object-fit:contain;float:right;shape-outside:url(https://frank-mayer.github.io/psycho-pass-pnp/img/tsunemori.webp)" />
 
 Eine Dienststelle der japanischen Regierung, deren Schwerpunkt auf der Bekämpfung von Terrorismus, Korruption, organisiertem Verbrechen, Internetkriminalität und Bürgerrechtsverletzungen sowie auf der Untersuchung von schweren Verbrechen wie schweren Diebstählen oder Morden und Angelegenheiten im Zusammenhang mit der Strafverfolgung liegt.
 
