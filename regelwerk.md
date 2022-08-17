@@ -40,7 +40,7 @@ Du darfst im Dienst jede Waffe tragen und im Sinne von Sibyl einsetzen.
 
 Du bist für die Dreckarbeit zuständig. Du darfst ohne die Genemigung deines Inspektors nicht den NONA-Tower verlassen oder außerhalb des NONA-Towers agieren. Solange du dich an die Anweisungen und Absprachen deines Inspektors hältst, folgen keinerlei rechtliche Konsequenzen auf deine Taten.
 
-Zur Bewaffnung mit einem Dominator benötigst du jedes Mal die explizite Genehmigung eines Inspektors.
+Zur Bewaffnung mit einem [Dominator](#dominator) benötigst du jedes Mal die explizite Genehmigung eines Inspektors.
 
 ### Analyst
 
@@ -221,7 +221,7 @@ Gut, du hast jetzt erzählt, was dein Charakter machen möchte, und ihr habt fes
 
 #### Einen Vorteil erschaffen
 
-Wenn du irgendetwas tun möchtest, um dir selbst oder deinen Freunden zu helfen, dann erschaffst du einen Vorteil. Du nimmst dir einen Augenblick Zeit, um besonders sorgfältig mit deinem _Dominator_ zu zielen; du recherchierst stundenlang in den Archiven; du möchtest dem Schläger ein Bein stellen, der dich bedroht – bei all diesen Aktionen erschaffst du einen Vorteil. Das Ziel deiner Aktion kann sich unter Umständen gegen dich verteidigen. Es gibt drei verschiedene Wege, wie du einen Vorteil erschaffen kannst:
+Wenn du irgendetwas tun möchtest, um dir selbst oder deinen Freunden zu helfen, dann erschaffst du einen Vorteil. Du nimmst dir einen Augenblick Zeit, um besonders sorgfältig mit deinem [Dominator](#dominator) zu zielen; du recherchierst stundenlang in den Archiven; du möchtest dem Schläger ein Bein stellen, der dich bedroht – bei all diesen Aktionen erschaffst du einen Vorteil. Das Ziel deiner Aktion kann sich unter Umständen gegen dich verteidigen. Es gibt drei verschiedene Wege, wie du einen Vorteil erschaffen kannst:
 
 - Du erschaffst einen neuen Situationsaspekt.
 - Du entdeckst einen bereits bestehenden Situationsaspekt oder einen Aspekt eines anderen Charakters, den du bisher nicht gekannt hast.
@@ -377,6 +377,62 @@ Am Ende jeder Szene kannst du deine Stresskästchen wieder leeren (radier die St
 #### Mittlere und schwerre Konsequenzen umwandeln
 
 Mittlere und schwere Konsequenzen bleiben eine Weile erhalten. Es kann also passieren, dass du den Aspekt umwandeln musst, damit er besser zu dem passt, was in der Geschichte vor sich geht. Vielleicht hast du die Konsequenz `gebrochenes Bein` von einem Arzt behandeln lassen und es passt besser, sie jetzt `Hinkt mit einer Krücke herum` zu nennen.
+
+### Waffen
+
+Du kannst alles als Waff verwenden was du so findest oder bei dir trägst. Feuerwaffen werden allerdings nur vom Militär verwendet. Daher wirst du auf Brecheisen und ähnliches zurückgreifen müssen, solltest du keine Waffen vom Amt bekommen haben.
+
+#### Waffen vom Amt
+
+Waffen vom Amt müssen nach Ende des Einsatzes abgegeben werden.
+Als Vollstrecker benötigst du die explizite Genemigung eines Inspektors um dich mit Waffen vom Amt zu bewaffnen.
+
+##### Dominator
+
+Tragbares System zur psychologischen Diagnose und Unterdrückung
+
+<img src="https://frank-mayer.github.io/psycho-pass-pnp/img/Dominator.webp" style="max-height:14rem;object-fit:contain;float:right;" />
+
+Der Abzug der Waffe ist standardmäßig gesperrt, bis der integrierte Scanner eine Person im Visier der Waffe identifiziert, die einen Kriminalkoeffizienten von 100 oder höher aufweist und den Griff der Waffe in der Hand eines registrierten und autorisierten Benutzers hält. Damit soll sichergestellt werden, dass es keine unschuldigen Opfer gibt und Missbrauch verhindert wird.
+
+###### Non-Lethal Paralyzer:
+
+Ab einem Kriminalkoeffizienten von 100.
+
+_"Enforcement mode: Non-Lethal Paralyzer. Please aim calmly and subdue the target."_
+Wird
+
+Der Dominator feuert Energiestöße ab, die das Ziel lähmen. Er wird eingesetzt, um Verdächtige bewusstlos zu machen, damit sie sicher in Gewahrsam genommen werden können. Die Wirkung kann abgeschwächt oder aufgehoben werden, wenn das Ziel unter dem Einfluss von starken Stimulanzien steht.
+
+###### Lethal Eliminator
+
+Ab einem Kriminalkoeffizienten von 300
+
+_"Enforcement mode: Lethal Eliminator. Please aim carefully and eliminate the target."_
+
+In diesem Modus kann die Waffe einen gewaltigen Energiestoß abfeuern, der bei Kontakt mit dem Ziel alle organische und anorganische Materie angreift. Nach dem Aufprall auf ein menschliches Ziel wird alles, was getroffen wird, vernichtet. Der Vorgang dauert etwa zwei Sekunden und ist visuell gewaltig, da er überall dort, wo die Energie auftrifft, eine massive Schwellung verursacht. Die Schwellung breitet sich dann auf den gesamten Körper aus, bevor sie explodiert. Zurück bleibt eine Blutspur mit Leichenteilen, die möglicherweise eine mindestens achtzehn Zentimeter lange Eintrittswunde aufweisen. Die Waffe ist auch in der Lage, Gliedmaßen zu zerstückeln. Ein Schuss in eine Gliedmaße, während sich die Waffe in diesem Modus befindet, lässt das Ziel oft am Leben, wenn auch schwer verletzt und mit völlig zerstörter Gliedmaße.
+
+<img src="https://frank-mayer.github.io/psycho-pass-pnp/img/Dominator-eliminator.webp" style="max-height:18rem;object-fit:contain;float:left;" />
+
+###### Destroy Decomposer
+
+_"Enforcement mode: Destroy Decomposer. Target will be completely annihilated. Please proceed with maximum caution."_
+
+Der Anti-Material-Modus des Dominator wird vor allem gegen gepanzerte Ziele (z. B. gepanzerte Personen), große Fahrzeuge oder Drohnen eingesetzt.
+
+In diesem Modus verfügt der Benutzer über eine kleine Handkanone, die eine Explosion mit einem Durchmesser von ein bis fünf Metern erzeugen kann, um gepanzerte Ziele wie die allgegenwärtigen Drohnen zu bekämpfen und möglicherweise Einbrüche in Gebäude zu schaffen. Der Destroy Decomposer wirkt auch auf organisches Material und hinterlässt keine Spuren. Jeder Dominator kann maximal drei Dekompositionsschüsse abgeben.
+
+#### Assault Dominator
+
+Der Assault Dominator ist die Scharfschützengewehr-Version des Dominator. Er verfügt über die selben Eigenschaften und Modi, nur mit viel höherer Präzision.
+
+<img src="https://frank-mayer.github.io/psycho-pass-pnp/img/Assault_Dominator.webp" style="max-height:18rem;object-fit:contain;float:right;" />
+
+#### Elektromagnetische Pulsgranate
+
+Diese Granate gibt einen elektromagnetischen Energiestoß ab, der keinen bleibenden Schaden an Menschen anrichtet. Der Radius des Impulses beträgt zehn Meter.
+
+Betroffene Menschen werden ohnmächtig. Nicht abgeschirmte Elektronik wird zerstört.
 
 ## Aspekte und Fate-Punkte
 
