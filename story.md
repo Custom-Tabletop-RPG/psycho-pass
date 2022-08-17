@@ -65,7 +65,7 @@ Ihre Struktur und Aufgaben ähneln denen des Amtes für öffentliche Sicherheit,
 
 #### Bekannte Mitglieder
 
-- Assistant Officer Frederica Hanashiro
+- Frederica Hanashiro
 - Akane Tsunemori
 - Shinya Kogami
 - Nobuchika Ginoza
@@ -73,19 +73,19 @@ Ihre Struktur und Aufgaben ähneln denen des Amtes für öffentliche Sicherheit,
 
 ## Timeline
 
-| Datum      | Ereigniss                                                                                                                             |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| 2020       | Global Depression.                                                                                                                    |
-| 2021       | Zusammenbruch der neoliberalen Wirtschaft.                                                                                            |
-| 2031       | Initiierung der Berufseignungsprüfung durch Psychopass Bewertung.                                                                     |
-| 2051       | Stabilität der japanischen Wirtschaft und Förderung der Isolationspolitik.                                                            |
-| 2061       | Einrichtung des Sibyl-Systems und Durchsetzung der Isolationspolitik.                                                                 |
-| 2071       | Durchsetzung des Sibylle-Systems.                                                                                                     |
-| 2081       | Stabilität durch das Sibyl-System.                                                                                                    |
-| 2091       | Adaption der Kriminalkoeffizienten-Technologie durch das Sibyl-System.                                                                |
-| 2099.05    | "Season of Hell", in der 184 Menschen bei einem Flugzeugabsturz am Berg Kumataka sterben.                                             |
-| 2110.03    | Joshu Kasei erklärt den Fall "Specimen" für abgeschlossen, ungelöst.                                                                  |
-| 2114.11.15 | Es kommt zum Hungry-Chicken-Zwischenfall, bei dem mehrere Inspektoren und Vollstrecker bei der Ausübung ihrer Pflicht getötet werden. |
-| 2116.07    | SEAUn exportiert das Sibyl-System nach Shambala Float.                                                                                |
-| 2120.12.21 | Terroristische Serienbombenanschläge.                                                                                                 |
-| 2121.01.26 | Koichi Azusawa griff das Büro für öffentliche Sicherheit an.                                                                          |
+| Datum      | Ereigniss                                                                                                                                          |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2020       | Globale Depression.                                                                                                                                |
+| 2021       | Zusammenbruch der neoliberalen Wirtschaft.                                                                                                         |
+| 2031       | Initiierung der Berufseignungsprüfung durch Psychopass Bewertung.                                                                                  |
+| 2051       | Stabilität der japanischen Wirtschaft und Förderung der Isolationspolitik.                                                                         |
+| 2061       | Einrichtung des Sibyl-Systems und Durchsetzung der Isolationspolitik.                                                                              |
+| 2071       | Durchsetzung des Sibylle-Systems.                                                                                                                  |
+| 2081       | Stabilität durch das Sibyl-System.                                                                                                                 |
+| 2091       | Adaption der Kriminalkoeffizienten-Technologie durch das Sibyl-System.                                                                             |
+| 2099.05    | "Season of Hell", in der 184 Menschen bei einem Flugzeugabsturz am Berg Kumataka sterben.                                                          |
+| 2110.03    | Joshu Kasei erklärt den Fall "Specimen" für abgeschlossen, ungelöst. Dabei konnte der Kriminalkoeffizient eines Mörders nur auf 0 gemessen werden. |
+| 2114.11.15 | Es kommt zum Hungry-Chicken-Zwischenfall, bei dem mehrere Inspektoren und Vollstrecker bei der Ausübung ihrer Pflicht getötet werden.              |
+| 2116.07    | SEAUn exportiert das Sibyl-System nach Shambala Float.                                                                                             |
+| 2120.12.21 | Terroristische Serienbombenanschläge.                                                                                                              |
+| 2121.01.26 | Koichi Azusawa griff das Büro für öffentliche Sicherheit an.                                                                                       |
