@@ -391,7 +391,7 @@ Als Vollstrecker benötigst du die explizite Genemigung eines Inspektors um dich
 
 Tragbares System zur psychologischen Diagnose und Unterdrückung
 
-<img src="https://frank-mayer.github.io/psycho-pass-pnp/img/Dominator.webp" style="max-height:14rem;object-fit:contain;float:right;" />
+<img loading="lazy" decoding="async" src="https://frank-mayer.github.io/psycho-pass-pnp/img/Dominator.webp" style="max-height:14rem;object-fit:contain;float:right;" />
 
 Der Abzug der Waffe ist standardmäßig gesperrt, bis der integrierte Scanner eine Person im Visier der Waffe identifiziert, die einen Kriminalkoeffizienten von 100 oder höher aufweist und den Griff der Waffe in der Hand eines registrierten und autorisierten Benutzers hält. Damit soll sichergestellt werden, dass es keine unschuldigen Opfer gibt und Missbrauch verhindert wird.
 
@@ -410,9 +410,9 @@ Ab einem Kriminalkoeffizienten von 300
 
 _"Enforcement mode: Lethal Eliminator. Please aim carefully and eliminate the target."_
 
-In diesem Modus kann die Waffe einen gewaltigen Energiestoß abfeuern, der bei Kontakt mit dem Ziel alle organische und anorganische Materie angreift. Nach dem Aufprall auf ein menschliches Ziel wird alles, was getroffen wird, vernichtet. Der Vorgang dauert etwa zwei Sekunden und ist visuell gewaltig, da er überall dort, wo die Energie auftrifft, eine massive Schwellung verursacht. Die Schwellung breitet sich dann auf den gesamten Körper aus, bevor sie explodiert. Zurück bleibt eine Blutspur mit Leichenteilen, die möglicherweise eine mindestens achtzehn Zentimeter lange Eintrittswunde aufweisen. Die Waffe ist auch in der Lage, Gliedmaßen zu zerstückeln. Ein Schuss in eine Gliedmaße, während sich die Waffe in diesem Modus befindet, lässt das Ziel oft am Leben, wenn auch schwer verletzt und mit völlig zerstörter Gliedmaße.
+<img loading="lazy" decoding="async" src="https://frank-mayer.github.io/psycho-pass-pnp/img/Dominator-eliminator.webp" style="max-height:18rem;object-fit:contain;float:right;" />
 
-<img src="https://frank-mayer.github.io/psycho-pass-pnp/img/Dominator-eliminator.webp" style="max-height:18rem;object-fit:contain;float:left;" />
+In diesem Modus kann die Waffe einen gewaltigen Energiestoß abfeuern, der bei Kontakt mit dem Ziel alle organische und anorganische Materie angreift. Nach dem Aufprall auf ein menschliches Ziel wird alles, was getroffen wird, vernichtet. Der Vorgang dauert etwa zwei Sekunden und ist visuell gewaltig, da er überall dort, wo die Energie auftrifft, eine massive Schwellung verursacht. Die Schwellung breitet sich dann auf den gesamten Körper aus, bevor sie explodiert. Zurück bleibt eine Blutspur mit Leichenteilen, die möglicherweise eine mindestens achtzehn Zentimeter lange Eintrittswunde aufweisen. Die Waffe ist auch in der Lage, Gliedmaßen zu zerstückeln. Ein Schuss in eine Gliedmaße, während sich die Waffe in diesem Modus befindet, lässt das Ziel oft am Leben, wenn auch schwer verletzt und mit völlig zerstörter Gliedmaße.
 
 ###### Destroy Decomposer
 
@@ -426,7 +426,7 @@ In diesem Modus verfügt der Benutzer über eine kleine Handkanone, die eine Exp
 
 Der Assault Dominator ist die Scharfschützengewehr-Version des Dominator. Er verfügt über die selben Eigenschaften und Modi, nur mit viel höherer Präzision.
 
-<img src="https://frank-mayer.github.io/psycho-pass-pnp/img/Assault_Dominator.webp" style="max-height:18rem;object-fit:contain;float:right;" />
+<img loading="lazy" decoding="async" src="https://frank-mayer.github.io/psycho-pass-pnp/img/Assault_Dominator.webp" style="max-height:18rem;object-fit:contain;float:right;" />
 
 #### Elektromagnetische Pulsgranate
 
@@ -569,7 +569,7 @@ Einen großen Meilenstein erreicht ihr normalerweise nach einem großen Einschni
 
 ### Kazumichi Iriei
 
-<img src="https://frank-mayer.github.io/psycho-pass-pnp/img/Kazumichi.webp" style="max-height:18rem;object-fit:contain;float:left;border-left:transparent 0.5rem solid;shape-outside:url(https://frank-mayer.github.io/psycho-pass-pnp/img/Kazumichi.webp)" />
+<img loading="lazy" decoding="async" src="https://frank-mayer.github.io/psycho-pass-pnp/img/Kazumichi.webp" style="max-height:18rem;object-fit:contain;float:left;border-left:transparent 0.5rem solid;shape-outside:url(https://frank-mayer.github.io/psycho-pass-pnp/img/Kazumichi.webp)" />
 
 Ich wuchs im aufgegebenen Bezirk von Myogadani auf und kenne mich daher gut mit solchen Gebieten, ihren Bewohnern und kriminellen Elementen aus. Während dieser Zeit arbeitete ich für Haruki Enomiya, bis ich begann, das Informationsnetzwerk des Bezirks mit Akane Tsunemori (Inspektorin der Kriminalabteilung) zu teilen. Später wurde ich von Mika Shimotsuki (Inspektorin der Kriminalabteilung) rekrutiert, um ein Vollstrecker zu werden.
 
