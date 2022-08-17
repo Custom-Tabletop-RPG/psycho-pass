@@ -2,9 +2,9 @@
 
 <img src="https://frank-mayer.github.io/psycho-pass-pnp/img/kagari.webp" style="max-width:50vw;max-height:16rem;object-fit:contain;float:right;shape-outside:url(https://frank-mayer.github.io/psycho-pass-pnp/img/kagari.webp)" />
 
-Du willst wissen, wie die Welt von Psycho-Pass überhapt funktioniert? Begriffe wie Kriminalkoeffizient oder Sibyl sagen dir überhaupt nichts? Dann bist du hier genau richtig!
+> Du willst wissen, wie die Welt von Psycho-Pass überhapt funktioniert? Begriffe wie Kriminalkoeffizient oder Sibyl sagen dir überhaupt nichts? Dann bist du hier genau richtig!
 
-<hr />
+<br />
 
 Wir befinden uns in einer Welt, in der der psychische Zustand und die Charaktertendenzen gemessen und quantifiziert werden können. Der gesammte psychische Zustand wird non stop aufgezeichnet und überwacht. Die Messwerte, die zu den Beurteilungskriterien für die Seele des Individuums geworden sind bezeichnet man umgangssprachlich als Psycho Pass. Überschreitet der Kriminalkoeffizient eines Menschen einen bestimmten Wert, wird er als latenter Verbrächer festgenommen. Für die Aufdeckung dieser Verbrechen ist ein riesiges Überwachungsnetzwerk verantwortlich, das Sibyl-System.
 
