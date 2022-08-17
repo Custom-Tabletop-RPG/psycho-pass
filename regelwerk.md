@@ -87,6 +87,8 @@ Ein latenter Verbrecher ist ein Mensch mit einem Kriminalkoeffizient von 100 ode
 
 Ab einem Kriminalkoeffizient von 300 sollte der latente Verbrecher umgehend exekutiert werden, da das Sibyl-System keine Chance auf Heilung sieht. Ein solcher latenter Verbrecher hat keinerlei Menschenrechte.
 
+**Doch das System ist nicht perfekt, darum hat man einem Menschen eine Waffe mit Abzug gegeben, obwohl man eine Drone verwenden könnte.**
+
 Ausnahmen sind Vollstrecker, sie haben in der Regel einen Kriminalkoeffizienten von etwa 300, sind jedoch im Dienst von Sibyl und unter der Verantwortung ihrer Inspektoren.
 
 ## Aspekte
