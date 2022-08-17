@@ -53,7 +53,7 @@ Die Vollstrecker sind das wichtigste Kraftwerk der Kriminalabteilung. Alle Volls
 
 Diese Personen sind, mit Unterstützungsaufgaben für alle Abteilungen betraut. Sie messen und verarbeiten die Kriminalkoeffizienten von Straftätern und führen Datenanalysen durch. Sie tragen weiße Laborkittel.
 
-## Ausenministerium, Operations Department, Aktionseinheit
+## Ausenministerium, Aktionseinheit
 
 <img src="https://frank-mayer.github.io/psycho-pass-pnp/img/tsunemori.webp" style="max-height:24rem;object-fit:contain;float:right;shape-outside:url(https://frank-mayer.github.io/psycho-pass-pnp/img/tsunemori.webp)" />
 
