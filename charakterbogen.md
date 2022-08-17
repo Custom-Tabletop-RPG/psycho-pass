@@ -11,9 +11,10 @@ Drücke `Strg`+ `P` zum drucken.
   </div>
   <div
     class="erholungsrate"
-    style="display: grid; grid-template-rows: repeat(3, 1fr); gap: 0.2rem"
+    style="display: grid; grid-template-rows: repeat(4, 1fr); gap: 0.2rem"
   >
     <label class="right">Klasse<input type="text" /></label>
+    <label class="right">Fate-Punkte<input type="number" /></label>
     <label class="right"
       >Kriminalkoeffizient<input type="number" min="0" max="1000"
     /></label>
