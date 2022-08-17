@@ -13,12 +13,11 @@ Basierend auf [Turbo Fate](https://faterpg.de/turbo-fate)
 
 ## Du brauchst für das Spiel ein paar Sachen
 
-- **Drei bis fünf Leute**. Einer von euch ist der **GM**, der Rest
-  sind die **Spieler** (mit je einem PC). Wir erklären dir gleich, was das genau bedeutet.
+- **Drei bis elf Leute**. Einer von euch ist der **GM**, der Rest
+  sind die **Spieler** (mit je einem PC).
 - _Fate-Würfel_ / D8-Würfel / D6-Würfel (klassischer sechs-seitiger Würfel).
 - _Charakterbögen_, einen pro PC. Den Charakterbogen findest du [hier](/charakterbogen.md).
 - **Karteikarten, Post-its** oder anderes Schmierpapier, auf dem du etwas notieren kannst.
-- **Marker für Fate-Punkte**. Du kannst Pokerchips, Glasperlen, Centstücke oder etwas Ähnliches dafür verwenden. Davon brauchst du ein paar – am besten so um die dreißig oder vierzig.
 
 ## Klasse
 
@@ -381,7 +380,7 @@ Mittlere und schwere Konsequenzen bleiben eine Weile erhalten. Es kann also pass
 
 ## Aspekte und Fate-Punkte
 
-Ein **Aspekt** ist ein Wort oder eine Formulierung, die etwas Besonderes an einer Person, einem Ort, einem Gegenstand, einer Situation oder einer Gruppe beschreibt. Fast alles, was dir so einfällt, kann Aspekte haben. Eine Person könnte `der größte Shogi-Spieler Japans` sein. Ein Zimmer könnte `in Brand` gesetzt sein, nachdem du dort eine Öllampe umgeworfen hast. Nach einer Begegnung mit einem zeitreisenden Dinosaurier bist du vielleicht `voller Angst`. Wenn du das Potential eines Aspekts ausschöpfen willst, sodass er dich unterstützt, dann musst du _Fate-Punkte_ ausgeben. Du kannst deine _Fate-Punkte_ mit Glassteinen, Kleingeld, Pokerchips oder anderen Markern darstellen und im Blick behalten. Du bekommst _Fate-Punkte_, wenn du zulässt, dass einer deiner Charakteraspekte gegen dich [gereizt](#aspekte-reizen) wird und damit die Situation verkompliziert oder dir das Leben schwer macht. Merk dir, wie viele _Fate-Punkte_ du am Ende einer Sitzung hast – wenn du mehr _Fate-Punkte_ hast, als deine Erholungsrate beträgt, dann fängst du am Anfang der nächsten Sitzung mit dieser Anzahl an _Fate-Punkten_ wieder an.
+Ein **Aspekt** ist ein Wort oder eine Formulierung, die etwas Besonderes an einer Person, einem Ort, einem Gegenstand, einer Situation oder einer Gruppe beschreibt. Fast alles, was dir so einfällt, kann Aspekte haben. Eine Person könnte `der größte Shogi-Spieler Japans` sein. Ein Zimmer könnte `in Brand` gesetzt sein, nachdem du dort eine Öllampe umgeworfen hast. Nach einer Begegnung mit einem zeitreisenden Dinosaurier bist du vielleicht `voller Angst`. Wenn du das Potential eines Aspekts ausschöpfen willst, sodass er dich unterstützt, dann musst du _Fate-Punkte_ ausgeben. Du bekommst _Fate-Punkte_, wenn du zulässt, dass einer deiner Charakteraspekte gegen dich [gereizt](#aspekte-reizen) wird und damit die Situation verkompliziert oder dir das Leben schwer macht. Merk dir, wie viele _Fate-Punkte_ du am Ende einer Sitzung hast – wenn du mehr _Fate-Punkte_ hast, als deine Erholungsrate beträgt, dann fängst du am Anfang der nächsten Sitzung mit dieser Anzahl an _Fate-Punkten_ wieder an.
 
 Wenn unser Beispielcharakter Kazumichi Iriei zu einer Mutprobe aufgefordert wird, bekommt er einen _Fate-Punkt_ wenn er sich darauf einlässt, da sein [Dilemma](#dilemma) `muss immer den harten Kerl spielen` [gereizt](#aspekte-reizen) wird.
 
