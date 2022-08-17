@@ -513,7 +513,9 @@ Einen großen Meilenstein erreicht ihr normalerweise nach einem großen Einschni
 
 ### Kazumichi Iriei
 
-...
+Ich wuchs im aufgegebenen Bezirk von Myogadani auf und kenne mich daher gut mit solchen Gebieten, ihren Bewohnern und kriminellen Elementen aus. Während dieser Zeit arbeitete ich für Haruki Enomiya, bis ich begann, das Informationsnetzwerk des Bezirks mit Akane Tsunemori (Inspektorin der Kriminalabteilung) zu teilen. Später wurde ich von Mika Shimotsuki (Inspektorin der Kriminalabteilung) rekrutiert, um ein Vollstrecker zu werden.
+
+<img src="https://frank-mayer.github.io/psycho-pass-pnp/img/Kazumichi.webp" style="max-height:24rem;object-fit:contain;float:left" />
 
 **Klasse:** Vollstrecker
 
@@ -538,4 +540,4 @@ Einen großen Meilenstein erreicht ihr normalerweise nach einem großen Einschni
 
 #### Stunts
 
-**Kind der Straße:** Weil ich in einem Bezirk, der nicht von Sibyl überwacht wird, aufgewachsen bin, bekomme ich einen Bonus von +2, wenn ich mir im Gespräch mit einem Gang-Mitglied, tollkühn einen Vorteil verschaffe.
+**Kind der Straße:** Weil ich in einem Bezirk, der nicht von Sibyl überwacht wird, aufgewachsen bin, bekomme ich einen Bonus von +2, wenn ich im Gespräch mit Kriminellen, tollkühn ein Hindernis überwinde. (Hindernis ist hier die negative Einstellung des Kriminellen gegenüber der Gruppe).
