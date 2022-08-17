@@ -87,7 +87,7 @@ Ausnahmen sind Vollstrecker, sie haben in der Regel einen Kriminalkoeffizienten 
 
 Mit Aspekten kannst du die Geschichte beeinflussen, und zwar auf eine Art, die etwas mit den Vorlieben, Problemen oder Fähigkeiten deines Charakters zu tun hat.
 
-Dein Charakter hat eine Handvoll Aspekte (zwischen drei und fünf), darunter sein **Konzept** und sein **Dilemma**. Im Kapitel [Aspekte und Fate-Punkte](#aspekte-und-fate-punkte) gehen wir noch ausführlich auf Aspekte ein – aber das sollte im Moment reichen, um dir eine grobe Idee zu vermitteln.
+Dein Charakter hat eine Handvoll Aspekte (drei bis fünf), darunter sein **Konzept** und sein **Dilemma**. Im Kapitel [Aspekte und Fate-Punkte](#aspekte-und-fate-punkte) gehen wir noch ausführlich auf Aspekte ein – aber das sollte im Moment reichen, um dir eine grobe Idee zu vermitteln.
 
 ### Konzept
 
@@ -230,7 +230,7 @@ Wenn du irgendetwas tun möchtest, um dir selbst oder deinen Freunden zu helfen,
 ##### Wenn du einen neuen Aspekt erschaffen oder einen bestehenden Aspekt entdecken willst
 
 - **Bei einem Fehlschlag:** Du erschaffst bzw. entdeckst den Aspekt entweder gar nicht oder du erschaffst bzw. entdeckst den Aspekt, aber ein Gegner darf ihn einmal frei einsetzen.
-- **Bei einem Gleichstand:** Beim Erschaffen eines neuen Aspekts bekommst du einen **Schub**. Gib ihm einen Namen und setze ihn einmal frei ein, danach verschwindet er wieder. Wenn du den Gleichstand beim Entdecken eines bestehenden Aspekts erzielst, zählt das als ein Erfolg (siehe unten).
+- **Bei einem Gleichstand:** Beim Erschaffen eines neuen Aspekts bekommst du einen [Schub](#schub). Gib ihm einen Namen und setze ihn einmal frei ein, danach verschwindet er wieder. Wenn du den Gleichstand beim Entdecken eines bestehenden Aspekts erzielst, zählt das als ein Erfolg (siehe unten).
 - **Bei einem Erfolg:** Du erschaffst oder entdeckst den Aspekt. Du oder ein Verbündeter können ihn einmal frei einsetzen. Schreib den Aspekt auf eine Karteikarte oder ein Post-it und leg ihn in die Mitte.
 - **Bei einem vollen Erfolg:** Du erschaffst oder entdeckst den Aspekt. Du oder ein Verbündeter können ihn zweimal frei einsetzen. Normalerweise kannst du denselben Aspekt nicht zweimal bei einem Wurf einsetzen, aber das hier ist die Ausnahme: Ein voller Erfolg gibt dir einen großen Vorteil!
 
@@ -247,16 +247,16 @@ Du benutzt diese Aktion, um ein Hindernis zu **überwinden**, das zwischen dir u
 - **Bei einem Fehlschlag:** Entweder du schaffst es nicht oder die Sache hat einen großen Haken.
 - **Bei einem Gleichstand:** Du erreichst dein Ziel, aber mit einem kleinen Haken.
 - **Bei einem Erfolg:** Du erreichst dein Ziel.
-- **Bei einem vollen Erfolg:** Du erreichst nicht nur dein Ziel, sondern bekommst auch noch einen Schub.
+- **Bei einem vollen Erfolg:** Du erreichst nicht nur dein Ziel, sondern bekommst auch noch einen [Schub](#schub).
 
 #### Angreifen
 
 Wenn du jemandem weh tun willst – egal, ob körperlich oder geistig – dann greifst du ihn an. Wenn jemand zu sehr verletzt wird, kann er an der Szene nicht weiter teilnehmen. Das Ziel deiner Aktion kann sich gegen dich verteidigen.
 
 - Bei einem Fehlschlag: Du triffst deinen Gegner nicht.
-- Bei einem Gleichstand: Du triffst deinen Gegner nicht hart genug, um Schaden zu verursachen, aber du bekommst einen Schub.
+- Bei einem Gleichstand: Du triffst deinen Gegner nicht hart genug, um Schaden zu verursachen, aber du bekommst einen [Schub](#schub).
 - Bei einem Erfolg: Du triffst und machst Schaden. Siehe im Kapitel [Aua! – Schaden, Stress und Konsequenzen](#aua-–-schaden-stress-und-konsequenzen).
-- Bei einem vollen Erfolg: Du triffst und machst Schaden. Außerdem hast du die Möglichkeit, deinen verursachten Schaden um 1 zu senken und dafür einen Schub zu bekommen.
+- Bei einem vollen Erfolg: Du triffst und machst Schaden. Außerdem hast du die Möglichkeit, deinen verursachten Schaden um 1 zu senken und dafür einen [Schub](#schub) zu bekommen.
 
 #### Verteidigen
 
@@ -264,7 +264,7 @@ Wenn du jemanden davon abhalten willst, eine der drei anderen Aktionen gegen dic
 
 - **Bei einem Fehlschlag:** Es passiert genau das mit dir, was dein Gegner erreichen wollte.
 - **Bei einem Gleichstand oder einem Erfolg:** Es sieht nicht allzu schlecht für dich aus. Schau bei der Aktion deines Gegners nach, was jetzt in der Situation passiert.
-- **Bei einem vollen Erfolg:** Dein Gegner erreicht sein Ziel nicht und du bekommst einen Schub.
+- **Bei einem vollen Erfolg:** Dein Gegner erreicht sein Ziel nicht und du bekommst einen [Schub](#schub).
 
 #### Hilfe bekommen
 
@@ -436,7 +436,11 @@ Was hast du davon, wenn du einen Aspekt einsetzt? Du kannst dir eine der folgend
 
 Wenn du einen Aspekt einsetzt, um +2 zu bekommen oder neu zu würfeln, dann warte damit, bis du gewürfelt hast. Es ist Unsinn, einen Fate-Punkt auszugeben, wenn du ihn gar nicht brauchst!
 
-**Freier Einsatz:** Manchmal kannst du einen Aspekt frei einsetzen, ohne einen Fate-Punkt zu bezahlen. Wenn du die Aktion **Vorteil erschaffen** benutzt, um einen Aspekt zu erschaffen oder zu entdecken, dann ist der erste Einsatz dieses Aspekts (durch dich oder durch einen deiner Verbündeten) frei (bei einem vollen Erfolg sind es sogar zwei freie Einsätze). Wenn du beim Angreifen eine Konsequenz verursachst, dann können du oder einer deiner Verbündeten sie einmal frei einsetzen. Ein **Schub** ist ein spezieller Aspekt, der einen freien Einsatz hat und danach verschwindet.
+**Freier Einsatz:** Manchmal kannst du einen Aspekt frei einsetzen, ohne einen Fate-Punkt zu bezahlen. Wenn du die Aktion **Vorteil erschaffen** benutzt, um einen Aspekt zu erschaffen oder zu entdecken, dann ist der erste Einsatz dieses Aspekts (durch dich oder durch einen deiner Verbündeten) frei (bei einem vollen Erfolg sind es sogar zwei freie Einsätze). Wenn du beim Angreifen eine Konsequenz verursachst, dann können du oder einer deiner Verbündeten sie einmal frei einsetzen.
+
+##### Schub
+
+Ein **Schub** ist ein spezieller Aspekt, der einen freien Einsatz hat und danach verschwindet.
 
 #### Aspekte reizen
 
@@ -465,3 +469,73 @@ Zum Beispiel:
 - Weil ich ein **erstklassiger Duellant** bin, bekomme ich einen Bonus von +2, wenn ich **allein gegen einen einzelnen Gegner kämpfe** und dabei **tollkühn angreife**.
 - Weil ich **gute Kontakte** habe, kann ich einmal pro Sitzung **einen hilfreichen Verbündeten genau am richtigen Ort finden**.
 - Weil ich **richtig schnell ziehe**, kann ich einmal pro Sitzung festlegen, dass ich **bei einem körperlichen Konflikt als Erster an die Reihe komme**.
+
+## Wie werde ich besser? - Charakterentwicklung
+
+### Meilensteine
+
+Wenn ein Abschnitt einer Geschichte zu Ende gebracht wird, dann habt ihr in Turbo-Fate einen Meilenstein erreicht. Nach einer kurzen Geschichte kommt ihr zu einem kleineren Meilenstein, am Ende einer epischen Erzählung gibt es nach vielen Sitzungen einen richtig großen. Wir verwenden drei verschiedene Meilensteine. Bei jedem davon kannst du deinen Charakter auf eine bestimmte Weise verändern.
+
+#### Kleiner Meilenstein
+
+Einen kleinen Meilenstein erreicht ihr normalerweise am Ende einer Sitzung, oder wenn ein Abschnitt in der Geschichte abgeschlossen ist. Dieser Meilenstein macht einen Charakter nicht stärker, es geht mehr darum, dass er sich verändert und sich gegebenenfalls an die Entwicklung in der Geschichte anpasst.
+
+Wenn du einen kleinen Meilenstein erreichst, kannst du eines (und nur eines) der folgenden Dinge tun:
+
+- Tausch die Boni von zwei Methoden.
+- [Wandle einen Aspekt um](#mittlere-und-schwerre-konsequenzen-umwandeln), der nicht dein [Konzept](#konzept) ist.
+- Tausch einen Stunt gegen einen anderen Stunt.
+- Nimm dir einen neuen Stunt (pass deine Erholungsrate an, wenn du schon drei Stunts hast).
+
+Solltest du eine mittlere Konsequenz haben, dann sieh nach, ob du sie schon seit zwei Sitzungen hast. Falls ja, kannst du sie ausradieren.
+
+#### Bedeutender Meilenstein
+
+Einen bedeutenden Meilenstein erreicht ihr normalerweise am Ende eines Szenarios, oder nachdem in der Geschichte eine richtig wichtige Sache passiert ist (oder, wenn ihr euch nicht ganz sicher seid, ungefähr nach zwei oder drei Sitzungen). Im Gegensatz zu kleinen Meilensteinen, wo es eher um Veränderung geht, könnt ihr bei bedeutenden Meilensteinen Dinge lernen – eure Charaktere haben sich um Probleme gekümmert und Herausforderungen bestanden, dadurch werden sie auch in dem, was sie tun, kompetenter.
+
+Bei einem bedeutenden Meilenstein kannst du das Gleiche machen wie bei einem kleinen Meilenstein, und außerdem kannst du noch die beiden folgenden Dinge tun:
+
+- Wenn du eine schwere Konsequenz schon seit mindestens zwei Sitzungen mit dir herumschleppst, dann kannst du sie ausradieren.
+- Steigere den Bonus einer Methode um 1.
+
+> Methoden steigern **_Es gibt nur eine Regel, wenn es darum geht, den Bonus einer Methode zu steigern: Dein Bonus darf nie höher als Hervorragend (+5) sein._**
+
+#### Großer Meilenstein
+
+Einen großen Meilenstein erreicht ihr normalerweise nach einem großen Einschnitt in der Kampagne – am Ende eines großen Handlungsbogens, nachdem ihr den NSC-Oberschurken endlich besiegt habt oder nach anderen weltbewegenden Ereignissen, die Auswirkungen auf die gesamte Spielwelt haben. Bei diesen Meilensteinen geht es darum, mehr Macht zu bekommen. Die Probleme von gestern sind für eure Charaktere jetzt keine Bedrohung mehr und die Widersacher von morgen müssen schon viel gewitzter, entschlossener und besser organisiert sein, damit sie es mit euch aufnehmen können. Bei einem großen Meilenstein kannst du das Gleiche machen wie bei einem kleinen und bei einem bedeutenden Meilenstein, und außerdem darfst du auch noch die beiden folgenden Dinge tun:
+
+- Steiger deine Erholungsrate um 1. Du kannst dir damit sofort einen Stunt kaufen, wenn du möchtest.
+- Wandle dein Konzept um (wenn du möchtest – du musst nicht), das funktioniert wie beim [Umwandeln von Aspekten](#mittlere-und-schwerre-konsequenzen-umwandeln).
+
+> **_Die Anzahl an Sitzungen, die benötigt wird, um eine Konsequenz auszuradieren, kann je nach Länge der Sitzungen angepasst werden_**
+
+## Beispielcharakter
+
+### Kazumichi Iriei
+
+...
+
+**Klasse:** Vollstrecker
+
+**Kriminalkoeffizient:** 360
+
+**Konzept:** Aufgewachsen auf den harten Straßen des aufgegebenen Bezirks von Myogadani.
+
+**Dilemma:** Sorgt sich mehr als alles andere um die Bewohner des aufgegebenen Bezirks von Myogadani.
+
+**Andere Aspekte:** `Muss immer den harten Kerl spielen`
+
+#### Methoden
+
+| Methode      | Wert |
+| ------------ | ---- |
+| Flink        | +2   |
+| Kraftvoll    | +3   |
+| Scharfsinnig | +1   |
+| Sorgfältig   | +0   |
+| Tollkühn     | +2   |
+| Tückisch     | +1   |
+
+#### Stunts
+
+**Kind der Straße:** Weil ich in einem Bezirk, der nicht von Sibyl überwacht wird, aufgewachsen bin, bekomme ich einen Bonus von +2, wenn ich mir im Gespräch mit einem Gang-Mitglied, tollkühn einen Vorteil verschaffe.
