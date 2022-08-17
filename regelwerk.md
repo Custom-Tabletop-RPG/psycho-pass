@@ -400,7 +400,6 @@ Der Abzug der Waffe ist standardmäßig gesperrt, bis der integrierte Scanner ei
 Ab einem Kriminalkoeffizienten von 100.
 
 _"Enforcement mode: Non-Lethal Paralyzer. Please aim calmly and subdue the target."_
-Wird
 
 Der Dominator feuert Energiestöße ab, die das Ziel lähmen. Er wird eingesetzt, um Verdächtige bewusstlos zu machen, damit sie sicher in Gewahrsam genommen werden können. Die Wirkung kann abgeschwächt oder aufgehoben werden, wenn das Ziel unter dem Einfluss von starken Stimulanzien steht.
 
