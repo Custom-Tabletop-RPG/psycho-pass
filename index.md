@@ -1,4 +1,6 @@
-<img src="https://frank-mayer.github.io/psycho-pass-pnp/img/Psycho-pass.logo.svg" style="width:100%;height:auto;" />
+<img src="https://frank-mayer.github.io/psycho-pass-pnp/img/Psycho-pass.logo.svg" style="width:min(85%,600px);margin:4rem auto;display:block;height:auto;" />
+
+## Inhaltsverzeichnis
 
 - [Story](/story.md)
 - [Karte](/karte.md)
@@ -11,6 +13,10 @@
 </div>
 
 <style>
+h1 {
+  display: none !important;
+}
+
 .cover {
   width: min(800px, 100%);
   margin: 0 auto;
