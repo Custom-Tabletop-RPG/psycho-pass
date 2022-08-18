@@ -66,6 +66,7 @@ Ihre Struktur und Aufgaben ähneln denen des Amtes für öffentliche Sicherheit,
 #### Bekannte Mitglieder
 
 - Frederica Hanashiro
+- Yayoi Kunizuka
 - Akane Tsunemori
 - Shinya Kogami
 - Nobuchika Ginoza
