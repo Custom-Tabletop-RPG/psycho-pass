@@ -2,13 +2,13 @@
 
 Basierend auf [Turbo Fate](https://faterpg.de/turbo-fate)
 
-<img class="no-mobile" loading="lazy" decoding="async" src="https://frank-mayer.github.io/psycho-pass-pnp/img/Tomomi_Masaoka.webp" style="max-height:32rem;object-fit:contain;float:right;shape-outside:url(https://frank-mayer.github.io/psycho-pass-pnp/img/Tomomi_Masaoka.webp)" />
+<img class="no-mobile" loading="lazy" decoding="async" src="https://frank-mayer.github.io/psycho-pass-pnp/img/Tomomi_Masaoka.webp" style="max-width:25vw;max-height:32rem;object-fit:contain;float:right;shape-outside:url(https://frank-mayer.github.io/psycho-pass-pnp/img/Tomomi_Masaoka.webp)" />
 
 * TOC
 {:toc}
 
 <style>
-@media scren and (max-width: 600px) {
+@media scren and (max-width: 500px) {
   .no-mobile {
     display: none !important;
   }
