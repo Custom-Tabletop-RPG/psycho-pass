@@ -8,6 +8,14 @@
 
 Wir befinden uns in einer Welt, in der der psychische Zustand und die Charaktertendenzen gemessen und quantifiziert werden können. Der gesammte psychische Zustand wird non stop aufgezeichnet und überwacht. Die Messwerte, die zu den Beurteilungskriterien für die Seele des Individuums geworden sind bezeichnet man umgangssprachlich als Psycho Pass. Überschreitet der Kriminalkoeffizient eines Menschen einen bestimmten Wert, wird er als latenter Verbrächer festgenommen. Für die Aufdeckung dieser Verbrechen ist ein riesiges Überwachungsnetzwerk verantwortlich, das Sibyl-System.
 
+## Sibyl-System
+
+Das Sibyl-System ist der Name einer Strafverfolgungsorganisation, die in Zusammenarbeit mit der nationalen Regierung die Kriminalität im Japan des 22. Jahrhunderts bekämpft. Es ist der alleinige Betreiber und Verwalter proprietärer Hardware und Software, die zur Analyse der kriminellen Tendenzen der gesamten Bevölkerung des Landes eingesetzt wird. Das Sibyl-System hat das Büro für öffentliche Sicherheit des Wohlfahrtsministeriums gegründet und herrscht mit eiserner Faust über dessen Personal sowie über alle Psycho-Pass-Technologien und -Waffen.
+
+Sibyls Hauptzweck ist die ständige Überwachung der gesamten japanischen Bevölkerung durch zymatische Scans von Gehirnwellenmustern, die analysiert werden, um die Neigung jedes Einzelnen zur Kriminalität zu bestimmen. Zu diesen Analysen gehören die Bestimmung des numerischen Verbrechenskoeffizienten, des Farbcodes, der sich innerhalb eines bestimmten Zeitraums ändert, und des grundlegenden sozialen Profils einer Person von der Geburt bis zum Zeitpunkt des Scannens. Die Daten werden sofort verarbeitet und analysiert, um einen so genannten Psycho-Pass zu erstellen.
+
+Das Sibyl-System kann auch konsultiert werden, um geeignete Berufe, Partner und ähnliches vorgeschlagen zu bekommen.
+
 ## Southeast Asia Union (SEAUn)
 
 Die Südostasiatische Union (SEAUn) ist eine Konföderation von Ländern in Südostasien. Sie besteht aus Ländern, die realen Ländern wie Vietnam, Kambodscha, Indonesien, Myanmar, Thailand, Halbinsel Malaysia, Laos und Singapur ähneln.
