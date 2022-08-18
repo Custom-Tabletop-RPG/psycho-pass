@@ -54,7 +54,7 @@ Du bist für die Dreckarbeit zuständig. Du darfst ohne die Genemigung deines In
 
 Zur Bewaffnung mit einem [Dominator](#dominator) benötigst du jedes Mal die explizite Genehmigung eines Inspektors.
 
-Du beginnst mit einem Kriminalkoeffizienten von `300` + `1 D100` + `4 D20`.
+Du beginnst mit einem Kriminalkoeffizienten von `300` + `1 D100` + `2 D20`.
 
 ### Analyst
 
@@ -62,7 +62,9 @@ Du verbringst die meiste Zeit in deinem Labor im NONA-Tower. Du bist für hackin
 
 Ob du als Analyst den NONA-Tower verlassen und in den Auseneinsatz darfst, legt der GM für die gesamte Kampagne fest.
 
-Du beginnst mit einem Kriminalkoeffizienten von `3 D20`.
+Du beginnst mit einem Kriminalkoeffizienten von `1 D100` + `2 D20`.
+
+Ist dein Kriminalkoeffizient über 100, hast du als latenter Verbrecher die selben Rechte wie ein Vollstrecker. Ist dein Kriminalkoeffizient unter 100, hast du die Rechte eines Inspektors.
 
 ### Abtrünniger
 
