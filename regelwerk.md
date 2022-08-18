@@ -443,17 +443,23 @@ Der Anti-Material-Modus des Dominator wird vor allem gegen gepanzerte Ziele (z. 
 
 In diesem Modus verfügt der Benutzer über eine kleine Handkanone, die eine Explosion mit einem Durchmesser von ein bis fünf Metern erzeugen kann, um gepanzerte Ziele wie die allgegenwärtigen Drohnen zu bekämpfen und möglicherweise Einbrüche in Gebäude zu schaffen. Der Destroy Decomposer wirkt auch auf organisches Material und hinterlässt keine Spuren. Jeder Dominator kann maximal drei Dekompositionsschüsse abgeben.
 
-#### Assault Dominator
+##### Assault Dominator
 
 Der Assault Dominator ist die Scharfschützengewehr-Version des Dominator. Er verfügt über die selben Eigenschaften und Modi, nur mit viel höherer Präzision.
 
 <img loading="lazy" decoding="async" src="https://frank-mayer.github.io/psycho-pass-pnp/img/Assault_Dominator.webp" style="max-height:18rem;object-fit:contain;margin: 0 auto;display: block;" />
 
-#### Elektromagnetische Pulsgranate
+##### Elektromagnetische Pulsgranate
 
 Diese Granate gibt einen elektromagnetischen Energiestoß ab, der keinen bleibenden Schaden an Menschen anrichtet. Der Radius des Impulses beträgt zehn Meter.
 
 Betroffene Menschen werden ohnmächtig. Nicht abgeschirmte Elektronik wird zerstört.
+
+##### Teleskopschlagstock
+
+Nahkampfwaffe, eine gute Wahl wenn eine Waffe verdeckt getragen werden muss oder in einem Gebiet, in dem kein Dominator eingesetzt werden kann.
+
+<img loading="lazy" decoding="async" src="https://frank-mayer.github.io/psycho-pass-pnp/img/schlagstock.webp" style="max-height:18rem;object-fit:contain;margin: 0 auto;display: block;" />
 
 ## Aspekte und Fate-Punkte
 
