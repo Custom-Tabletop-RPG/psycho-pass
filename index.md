@@ -6,6 +6,7 @@
 - [Karte](/karte.md)
 - [Regelwerk](/regelwerk.md)
 - [Charakterbogen](/charakterbogen.md)
+- [PDFs](https://github.com/Frank-Mayer/psycho-pass-pnp/releases)
 
 <div class="cover">
     <img class="kogami" src="https://frank-mayer.github.io/psycho-pass-pnp/img/kogami.webp"/>
