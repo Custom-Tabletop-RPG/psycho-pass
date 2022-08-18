@@ -459,7 +459,7 @@ Es gibt natürlich endlos viele Aspekte, aber egal, wie sie heißen, sie funktio
 
 Das sind die Aspekte auf deinem Charakterbogen, z.B. dein Konzept und dein Dilemma. Sie beschreiben Persönlichkeitsmerkmale, wichtige Sachen aus deiner Vergangenheit, deine Beziehungen mit anderen oder auch wichtige Gegenstände und Titel, die zu dir gehören, Probleme, mit denen du dich beschäftigst, Ziele, auf die du hin arbeitest, einen Ruf, der dir anhaftet, oder eine Verpflichtung, der du nachkommen musst. Diese Aspekte verändern sich nur selten und unter ungewöhnlichen Umständen, die meisten bleiben bestehen.
 
-**Beispiele:** `Blick fürs Detail`, `ich muss auf meinen Bruder aufpassen`, ``
+**Beispiele:** `Blick fürs Detail`, `ich muss auf meinen Bruder aufpassen`
 
 #### Situationsaspekte
 
