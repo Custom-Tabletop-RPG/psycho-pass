@@ -13,6 +13,12 @@
 </div>
 
 <style>
+@media print {
+  .cover {
+    display: none !important;
+  }
+}
+
 h1 {
   display: none !important;
 }

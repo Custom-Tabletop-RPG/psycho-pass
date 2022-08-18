@@ -435,7 +435,7 @@ In diesem Modus verfügt der Benutzer über eine kleine Handkanone, die eine Exp
 
 Der Assault Dominator ist die Scharfschützengewehr-Version des Dominator. Er verfügt über die selben Eigenschaften und Modi, nur mit viel höherer Präzision.
 
-<img loading="lazy" decoding="async" src="https://frank-mayer.github.io/psycho-pass-pnp/img/Assault_Dominator.webp" style="max-height:18rem;object-fit:contain;float:right;" />
+<img loading="lazy" decoding="async" src="https://frank-mayer.github.io/psycho-pass-pnp/img/Assault_Dominator.webp" style="max-height:18rem;object-fit:contain;margin: 0 auto;display: block;" />
 
 #### Elektromagnetische Pulsgranate
 
