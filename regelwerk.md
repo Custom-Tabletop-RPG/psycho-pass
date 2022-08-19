@@ -78,6 +78,8 @@ Jede der folgenden Sonderfähigkeiten darf nur einmal pro Gruppe vergeben werden
 
 Vorbild: [Shindou Arata](https://psychopass.fandom.com/wiki/Arata_Shindo)
 
+<img loading="lazy" decoding="async" src="https://frank-mayer.github.io/psycho-pass-pnp/img/Shindou.webp" style="max-width:50vw;max-height:18rem;object-fit:contain;float:right;shape-outside:url(https://frank-mayer.github.io/psycho-pass-pnp/img/Shindou.webp)" />
+
 #### Mental Trace
 
 Mental Trace ist eine Mentalisten-Fertigkeit, die es einer Person ermöglicht, die mentale Grenze einer anderen Person durch extremes Einfühlungsvermögen zu überschreiten.
