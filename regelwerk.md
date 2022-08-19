@@ -515,7 +515,7 @@ Um einen Situationsaspekt loszuwerden, musst du ihn mit einer Aktion überwinden
 
 #### Konsequenzen
 
-Diese Aspekte beschreiben Verletzungen oder andere Traumata. Sie entstehen, wenn du von einem Angriff getroffen wirst. Sie verschwinden relativ langsam. Das wird im [Kapitel Aua! – Schaden, Stress und Konsequenzen](#aua-–-schaden-stress-und-konsequenzen) genauer erklärt.
+Diese Aspekte beschreiben Verletzungen oder andere Traumata. Sie entstehen, wenn du von einem Angriff getroffen wirst. Sie verschwinden relativ langsam. Das wird im Kapitel [Aua! – Schaden, Stress und Konsequenzen](#aua--schaden-stress-und-konsequenzen) genauer erklärt.
 
 **Beispiele:** `Verstauchter Knöchel`, `Angst vor Spinnen`, `Gehirnerschütterung`, `lähmende Selbstzweifel`
 
