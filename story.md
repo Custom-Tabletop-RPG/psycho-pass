@@ -6,7 +6,13 @@
 
 <br />
 
-Wir befinden uns in einer Welt, in der der psychische Zustand und die Charaktertendenzen gemessen und quantifiziert werden können. Der gesammte psychische Zustand wird non stop aufgezeichnet und überwacht. Die Messwerte, die zu den Beurteilungskriterien für die Seele des Individuums geworden sind bezeichnet man umgangssprachlich als Psycho Pass. Überschreitet der Kriminalkoeffizient eines Menschen einen bestimmten Wert, wird er als latenter Verbrächer festgenommen. Für die Aufdeckung dieser Verbrechen ist ein riesiges Überwachungsnetzwerk verantwortlich, das Sibyl-System.
+Unsere Gesellschaft hat es geschafft, die Psyche und den Geisteszustand der Menschen messbar zu machen. Auf der Grundlage des sogenannten Psycho-Passes, des numerischen Werts ihrer Seele, werden die Menschen bestraft, bevor sie ein Verbrechen begehen. Das Urteil wird von einem riesigen Überwachungsnetzwerk des Sozialministeriums gefällt, dem Sibyl-System.
+
+Dank dieses Systems und einer langjährigen Abschottungspolitik entging Japan der Tragödie der weltumspannenden Konflikte und wurde so zum einzigen Land auf der Welt, in dem Frieden herrscht.
+
+Aber, was haben wir dafür alles geopfert? Und, was haben wir deswegen alles vergessen? War es das wirklich wert?
+
+Die Antwort darauf liegt in tiefer Finsternis, zusammen mit dem wahren Verbrechen, das sich in der Gesellschaft verbirgt.
 
 ## Sibyl-System
 
@@ -35,13 +41,14 @@ Die Kriminalabteilung (japanisch: 刑事課所属) ist die Abteilung innerhalb d
 - Shinya Kogami (ehmalig)
 - Nobuchika Ginoza (ehmalig)
 - Teppei Sugo (ehmalig)
+- Yayoi Kunizuka (ehmalig)
+- Shizuka Homura
 - Mika Shimotsuki
 - Akane Tsunemori
 - Arata Shindo
 - Sakuya Togane
 - Risa Aoyanagi
 - Kei Mikhail Ignatov
-- Yayoi Kunizuka
 
 #### Farbton-Checks
 
