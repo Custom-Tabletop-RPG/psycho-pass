@@ -32,11 +32,11 @@ Die Kriminalabteilung (japanisch: 刑事課所属) ist die Abteilung innerhalb d
 
 #### Bekannte Mitglieder
 
-- Akane Tsunemori (ehmalig)
 - Shinya Kogami (ehmalig)
 - Nobuchika Ginoza (ehmalig)
 - Teppei Sugo (ehmalig)
 - Mika Shimotsuki
+- Akane Tsunemori
 - Arata Shindo
 - Sakuya Togane
 - Risa Aoyanagi
@@ -75,7 +75,6 @@ Ihre Struktur und Aufgaben ähneln denen des Amtes für öffentliche Sicherheit,
 
 - Frederica Hanashiro
 - Yayoi Kunizuka
-- Akane Tsunemori
 - Shinya Kogami
 - Nobuchika Ginoza
 - Teppei Sugo
