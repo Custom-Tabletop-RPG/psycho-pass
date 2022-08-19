@@ -70,6 +70,30 @@ Ist dein Kriminalkoeffizient über 100, hast du als latenter Verbrecher die selb
 
 Du warst ein Beamter der Kriminalabteilung und hast dich der Kriminalität zugewandt. Du bist ein gesuchter latenter Verbrecher. Dein Beamtenstatus wurde dir entzogen. Dein Kriminalkoeffizient kann nicht unter 100 fallen.
 
+## Sonderfähigkeiten
+
+Jede der folgenden Sonderfähigkeiten darf nur einmal pro Gruppe vergeben werden. Je nach Kampagne ist es auch ratsam gar keine dieser Fähigkeiten zu verwenden. Sprecht das mit eurem GM ab.
+
+### Mentalist
+
+Vorbild: [Shindou Arata](https://psychopass.fandom.com/wiki/Arata_Shindo)
+
+#### Mental Trace
+
+Mental Trace ist eine Mentalisten-Fertigkeit, die es einer Person ermöglicht, die mentale Grenze einer anderen Person durch extremes Einfühlungsvermögen zu überschreiten.
+
+Anhand von Umständen, Überlegungen und Statistiken übernimmt der Mentalist die Persona des Ziels und kann so dessen Geisteszustand verstehen. Dabei wird auch der Psycho-Pass des Ziels vom Mentalisten übernommen. Aus diesem Grund kann der Mentalist, der diese Fähigkeit ausübt, zur Zielscheibe der Strafverfolgung werden, je nachdem, welche Person verfolgt wird.
+
+Das Mental Tracing ist zwar ein unschätzbarer Vorteil, der es einem Mentalisten ermöglicht, sich in den Geisteszustand anderer Menschen hineinzuversetzen, doch setzt diese Fähigkeit den Anwender einer Reihe von Nebenwirkungen aus, die meist negativ sind und ihn anfällig für körperliche und seelische Probleme machen können.
+
+- Wenn ein Mentalist zu tief in den Verstand eindringt, besteht das Risiko, dass er nicht in der Lage ist, zu seiner ursprünglichen Identität zurückzukehren. Beim zurückkehren muss dieser Wiederstand `scharfsinnig` [überwunden](#überwinden) werden. Die Schwierigkeit ist abhängig von der Tiefe des Mental Trace.
+- Bei einem Mental Trace kann der Mentalist auch einen ähnlichen körperlichen Zustand erleben, wie ihn die verfolgte Person empfindet. **Der Mentalist steckt alle getroffenen Angriffe auf das Ziel um 2 geschwächt ein.**
+- Wenn der Mentalist irgendwelche Traumata hat, ist er diesen Wärend des Mental Trace schutzlos ausgeliefert. Diese müssen `scharfsinnig` [überwunden](#überwinden) werden um an Informationen zu gelangen.
+
+#### Psychic Driving
+
+Mental Trace kann auch andere Menschen in einem geringen Maße kontrollieren oder manipulieren. Diese Fähigkeit ist effektiver als eine Sitzung bei einem schlechten Psychologen. Das nennt man Psychic Driving. Es bestehen die selben Risiken wie bei einem normalen Mental Trace.
+
 ## Kriminalkoeffizient
 
 Der Kriminalkoeffizient gibt die Bereitschaft an, gegen das Gesetz zu verstoßen. Ein gesunder Wert liegt bei etwa 50. Ab 100 gilt ein Mensch alt latenter Verbrecher. Steigt der Kriminalkoeffizient eines PC der Klasse Inspektor oder Analyst über 100, so sind alle Beamten in der Pflicht diesen PC festzunehmen. Der PC gilt dann als latenter Verbrecher und hat die folgende Möglichkeiten:
