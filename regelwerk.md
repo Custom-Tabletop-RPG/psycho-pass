@@ -303,7 +303,7 @@ Wenn du jemandem weh tun willst – egal, ob körperlich oder geistig – dann g
 
 - Bei einem Fehlschlag: Du triffst deinen Gegner nicht.
 - Bei einem Gleichstand: Du triffst deinen Gegner nicht hart genug, um Schaden zu verursachen, aber du bekommst einen [Schub](#schub).
-- Bei einem Erfolg: Du triffst und machst Schaden. Siehe im Kapitel [Aua! – Schaden, Stress und Konsequenzen](#aua-–-schaden-stress-und-konsequenzen).
+- Bei einem Erfolg: Du triffst und machst Schaden. Siehe im Kapitel [Aua! – Schaden, Stress und Konsequenzen](#aua--schaden-stress-und-konsequenzen).
 - Bei einem vollen Erfolg: Du triffst und machst Schaden. Außerdem hast du die Möglichkeit, deinen verursachten Schaden um 1 zu senken und dafür einen [Schub](#schub) zu bekommen.
 
 #### Verteidigen
