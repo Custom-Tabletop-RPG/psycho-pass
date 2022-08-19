@@ -87,7 +87,7 @@ Anhand von Umständen, Überlegungen und Statistiken übernimmt der Mentalist di
 Das Mental Tracing ist zwar ein unschätzbarer Vorteil, der es einem Mentalisten ermöglicht, sich in den Geisteszustand anderer Menschen hineinzuversetzen, doch setzt diese Fähigkeit den Anwender einer Reihe von Nebenwirkungen aus, die meist negativ sind und ihn anfällig für körperliche und seelische Probleme machen können.
 
 - Wenn ein Mentalist zu tief in den Verstand eindringt, besteht das Risiko, dass er nicht in der Lage ist, zu seiner ursprünglichen Identität zurückzukehren. Beim zurückkehren muss dieser Wiederstand `scharfsinnig` [überwunden](#überwinden) werden. Die Schwierigkeit ist abhängig von der Tiefe des Mental Trace.
-- Bei einem Mental Trace kann der Mentalist auch einen ähnlichen körperlichen Zustand erleben, wie ihn die verfolgte Person empfindet. **Der Mentalist steckt alle getroffenen Angriffe auf das Ziel um 2 geschwächt ein.**
+- Bei einem Mental Trace kann der Mentalist auch einen ähnlichen körperlichen Zustand erleben, wie ihn die verfolgte Person empfindet. **Der Mentalist steckt alle getroffenen Angriffe auf das Ziel um 2 geschwächt ein.** _Stress_ verschwindet nach Ende des Mental Traces. _Konsequenzen_ verschwinden einige Minuten nach Ende des Mental Traces.
 - Wenn der Mentalist irgendwelche Traumata hat, ist er diesen Wärend des Mental Trace schutzlos ausgeliefert. Diese müssen `scharfsinnig` [überwunden](#überwinden) werden um an Informationen zu gelangen.
 
 #### Psychic Driving
