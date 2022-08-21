@@ -96,6 +96,14 @@ Das Mental Tracing ist zwar ein unschätzbarer Vorteil, der es einem Mentalisten
 
 Mental Trace kann auch andere Menschen in einem geringen Maße kontrollieren oder manipulieren. Diese Fähigkeit ist effektiver als eine Sitzung bei einem schlechten Psychologen. Das nennt man Psychic Driving. Es bestehen die selben Risiken wie bei einem normalen Mental Trace.
 
+### Auge der Toten
+
+Vorbild: [Another](https://www.imdb.com/title/tt2176165)
+
+Mit dem Auge der Toten kannst du sehen wie nah eine Person dem Tod steht. Hierbei geht es ausschließlich um den Tot der Person selbst.
+
+Der Einsatz dieser Fähigkeit wirkt sich negativ auf deine Psyche aus. Du bekommst pro Person, die du mit dem aktivierten Auge der Toten siehst psychischen Schaden (wird vom GM gewürfelt).
+
 ## Kriminalkoeffizient
 
 Der Kriminalkoeffizient gibt die Bereitschaft an, gegen das Gesetz zu verstoßen. Ein gesunder Wert liegt bei etwa 50. Ab 100 gilt ein Mensch alt latenter Verbrecher. Steigt der Kriminalkoeffizient eines PC der Klasse Inspektor oder Analyst über 100, so sind alle Beamten in der Pflicht diesen PC festzunehmen. Der PC gilt dann als latenter Verbrecher und hat die folgende Möglichkeiten:
