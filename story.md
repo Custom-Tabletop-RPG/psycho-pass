@@ -30,7 +30,7 @@ Shambala Float ist ein stark militarisiertes Land, das das Sibyl-System einsetzt
 
 ## Amt für öffentliche Sicherheit
 
-Das Amt für öffentliche Sicherheit des Ministeriums für Gesundheit und Wohlbefinden ist eine Dienststelle der japanischen Regierung, die für die Durchsetzung der Gesetze in der dystopischen Zukunft von Psycho-Pass zuständig ist. Seine Mitglieder kommen aus verschiedenen Bereichen des Lebens, deren Arbeit für die Sicherheit der Gesellschaft von entscheidender Bedeutung ist.
+Das Amt für öffentliche Sicherheit des Ministeriums für Gesundheit und Wohlbefinden ist eine Dienststelle der japanischen Regierung, die für die Durchsetzung der Gesetze in der Zukunft von Psycho-Pass zuständig ist. Seine Mitglieder kommen aus verschiedenen Bereichen des Lebens, deren Arbeit für die Sicherheit der Gesellschaft von entscheidender Bedeutung ist.
 
 ### Kriminalabteilung
 
