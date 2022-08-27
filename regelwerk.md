@@ -42,7 +42,7 @@ Es ist empfehlenswert mit zwei bis vier Inspektoren und einem Analysten zu begin
 
 ### Inspektor
 
-Als Inspektor bist du für die Führung der Ermittlungen zuständig. Dir gehören mehrere Vollstrecker, denen du Aufgaben zuweisen kannst. Du hast die volle Befehlsgewalt über deine Vollstrecker, sie dürfen sich dir nicht widersetzen. Wenn einer deiner Vollstrecker einen Fehler macht, bist du alleine für die Konsequenzen verantwortlich.
+Als Inspektor bist du für die Führung der Ermittlungen zuständig. Dir gehören mehrere Vollstrecker und mindestens ein Analyst, diesen kannst du Aufgaben zuweisen. Du hast die volle Befehlsgewalt über sie, sie dürfen sich dir nicht widersetzen. Wenn einer deiner Vollstrecker oder Analysten einen Fehler macht, bist du alleine für die Konsequenzen verantwortlich.
 
 Du darfst im Dienst jede Waffe tragen und im Sinne von Sibyl einsetzen.
 
@@ -54,21 +54,23 @@ Du bist für die Dreckarbeit zuständig. Du darfst ohne die Genemigung deines In
 
 Zur Bewaffnung mit einem [Dominator](#dominator) benötigst du jedes Mal die explizite Genehmigung eines Inspektors.
 
-Du beginnst mit einem Kriminalkoeffizienten von `300` + `1 D100` + `2 D20`.
+Du beginnst mit einem Kriminalkoeffizienten von `100` + `1 D100` + `2 D20`.
 
 ### Analyst
 
-Du verbringst die meiste Zeit in deinem Labor im NONA-Tower. Du bist für hacking und analysieren zuständig.
+Du verbringst die meiste Zeit in deinem Labor im NONA-Tower. Du bist für Hacking und Analysen zuständig. Du darfst ohne die Genemigung deines Inspektors nicht den NONA-Tower verlassen oder außerhalb des NONA-Towers agieren. Solange du dich an die Anweisungen und Absprachen deines Inspektors hältst, folgen keinerlei rechtliche Konsequenzen auf deine Taten.
 
-Ob du als Analyst den NONA-Tower verlassen und in den Auseneinsatz darfst, legt der GM für die gesamte Kampagne fest.
+Ob du als Analyst den NONA-Tower verlassen und in den Auseneinsatz darfst, legt der GM für die gesamte Kampagne fest. Dein Inspektor entscheidet dann in den Einzelfällen, ob du vom NOVA-Tower aus unterstützt oder vor Ort aktiv bist.
 
-Du beginnst mit einem Kriminalkoeffizienten von `1 D100` + `2 D20`.
+Zur Bewaffnung mit einem [Dominator](#dominator) benötigst du jedes Mal die explizite Genehmigung eines Inspektors.
 
-Ist dein Kriminalkoeffizient über 100, hast du als latenter Verbrecher die selben Rechte wie ein Vollstrecker. Ist dein Kriminalkoeffizient unter 100, hast du die Rechte eines Inspektors.
+Du beginnst mit einem Kriminalkoeffizienten von `95` + `5 D20`.
 
 ### Abtrünniger
 
-Du warst ein Beamter der Kriminalabteilung und hast dich der Kriminalität zugewandt. Du bist ein gesuchter latenter Verbrecher. Dein Beamtenstatus wurde dir entzogen. Dein Kriminalkoeffizient kann nicht unter 100 fallen.
+Du warst ein Beamter der Kriminalabteilung und hast dich der Kriminalität zugewandt. Dein Beamtenstatus wurde dir entzogen.
+
+Wenn du ein [latenter Verbrecher](#latente-verbrecher) bist, wirst du nun als solcher von deinen ehmaligen Kollegen gesucht.
 
 ## Sonderfähigkeiten
 
@@ -104,28 +106,38 @@ Mit dem Auge der Toten kannst du sehen wie nah eine Person dem Tod steht. Hierbe
 
 Der Einsatz dieser Fähigkeit wirkt sich negativ auf deine Psyche aus. Du bekommst pro Person, die du mit dem aktivierten Auge der Toten siehst psychischen Schaden (wird vom GM gewürfelt).
 
+### Selbstbegradende Konstitution
+
+Vorbild: [Shogo Makishima](https://psychopass.fandom.com/wiki/Shogo_Makishima), [Shindou Arata](https://psychopass.fandom.com/wiki/Arata_Shindo)
+
+Die Messung des Geistes ist auf dich nicht anwendbar. Bei einer Messung mit einem [Dominator](#dominator) ist das Ergebnis immer 0. Das bedeutet nicht, dass du exakt so handelst, wie Sibyl sich das wünscht. Lediglich eine Messung ist bei dir nicht möglich.
+
+Mit dieser Sonderfähigkeit, kannst du kein [latenter Verbrecher](#latente-verbrecher) sein, daher kannst du die Klassen Vollstrecker und Analyst nicht spielen.
+
+> Die Klasse Abtrünniger wäre hier aber sehr interessant.
+
 ## Kriminalkoeffizient
 
-Der Kriminalkoeffizient gibt die Bereitschaft an, gegen das Gesetz zu verstoßen. Ein gesunder Wert liegt bei etwa 50. Ab 100 gilt ein Mensch alt latenter Verbrecher. Steigt der Kriminalkoeffizient eines PC der Klasse Inspektor oder Analyst über 100, so sind alle Beamten in der Pflicht diesen PC festzunehmen. Der PC gilt dann als latenter Verbrecher und hat die folgende Möglichkeiten:
+Der Kriminalkoeffizient gibt die Bereitschaft an, gegen das Gesetz zu verstoßen. Ein gesunder Wert liegt bei etwa 50. Ab 100 gilt ein Mensch alt [latenter Verbrecher](#latente-verbrecher). Steigt der Kriminalkoeffizient eines PC der Klasse Inspektor über 100, so sind alle Beamten in der Pflicht diesen PC festzunehmen. Der PC gilt dann als [latenter Verbrecher](#latente-verbrecher) und hat die folgende Möglichkeiten:
 
-- Zur Klasse Vollstrecker wechseln
-- Zur Klasse Abtrünniger wechseln
-- Einen neuen Charakter beginnen
+- Zur Klasse [Vollstrecker](#vollstrecker) wechseln
+- Zur Klasse [Analyst](#analyst) wechseln
+- Zur Klasse [Abtrünniger](#abtrünniger) wechseln
 
 ### Wie verändert sich mein Kriminalkoeffizient?
 
 Als Verbrechen wird alles gewertet, was das Sibyl-System (der GM) als negativ für die Gesellschaft Japans ansieht. Alles was nicht von Sibyl als Verbrechen gewertet wird, ist auch keines. Sibyl kennt keine Moral, sondern agiert rein rational.
 
-Davon ausgehend, dass der GM nicht die Gedanken seiner Spieler überprüfen kann, werden nur Gespräche und Taten gewertet. Out-Time/Out-of-Game Gespräche werden ebenfalls gewertet, da Sibyl nicht darauf angewiesen ist, dass jemand aktiv etwas tut. Es heißt ja auch **latenter** Verbrecher.
+Davon ausgehend, dass der GM nicht die Gedanken seiner Spieler überprüfen kann, werden nur Gespräche und Taten gewertet. Out-Time/Out-of-Game Gespräche werden ebenfalls gewertet, da Sibyl nicht darauf angewiesen ist, dass jemand aktiv etwas tut. Es heißt ja auch [**latenter** Verbrecher](#latente-verbrecher).
 
 > Sollte der GM doch Gedanken lesen können, werden diese selbstverständlich in die Wertung des Psycho-Pass eingebunden.
 
 Beispiele:
 
-- Lässt ein _Analyst_ Vorschungsergebnisse verschwinden lässt das den Kriminalkoeffizient **steigen**.
-- Verstößt ein _Vollstrecker_ gegen die Befehle seines _Inspektors_, wird der Kriminalkoeffizient **steigen**.
+- Lässt ein [Analyst](#analyst) Vorschungsergebnisse verschwinden lässt das den Kriminalkoeffizient **steigen**.
+- Verstößt ein [Vollstrecker](#vollstrecker) gegen die Befehle seines _Inspektors_, wird der Kriminalkoeffizient **steigen**.
 - Das unerlaubte entwenden von Eigentum eines anderen Individuums (auch als stehlen bezeichnet), lässt den Kriminalkoeffizient **steigen**.
-- Versucht ein _Inspektor_ oder ein _Vollstrecker_ einen als latenten Verbrecher (>300) eingestuften Menschen zu beruhigen, um dessen Kriminalkoeffizient zu senken (<300), wird der Kriminalkoeffizient des _Inspektors_ / _Vollstreckers_ **sinken**.
+- Versucht ein _Inspektor_ oder ein _Vollstrecker_ einen als [latenten Verbrecher](#latente-verbrecher) (>300) eingestuften Menschen zu beruhigen, um dessen Kriminalkoeffizient zu senken (<300), wird der Kriminalkoeffizient des _Inspektors_ / _Vollstreckers_ **sinken**. Dadurch wird das Ziel vom [Dominator](#dominator) nicht mehr getötet.
 
 ### Latente Verbrecher
 
