@@ -56,6 +56,8 @@ Farbtöne sind eine visuelle Darstellung eines Psycho-Passes, die zeigt, wann ei
 
 #### Struktur
 
+<img src="https://frank-mayer.github.io/psycho-pass-pnp/img/tsunemori.webp" style="max-height:24rem;max-width:50vw;object-fit:contain;float:right;shape-outside:url(https://frank-mayer.github.io/psycho-pass-pnp/img/tsunemori.webp)" />
+
 Einheit 01, Einheit 02, and Einheit 03 bilden die Gesamtheit der Kriminalabteilung. Jede Abteilung setzt sich aus den folgenden Personaltypen zusammen:
 
 ##### Die Inspektoren
@@ -72,11 +74,13 @@ Diese Personen sind, mit Unterstützungsaufgaben für alle Abteilungen betraut. 
 
 ## Ausenministerium, Aktionseinheit
 
-<img src="https://frank-mayer.github.io/psycho-pass-pnp/img/tsunemori.webp" style="max-height:24rem;max-width:50vw;object-fit:contain;float:right;shape-outside:url(https://frank-mayer.github.io/psycho-pass-pnp/img/tsunemori.webp)" />
+<img src="https://frank-mayer.github.io/psycho-pass-pnp/img/kogami3.webp" style="max-height:24rem;max-width:50vw;object-fit:contain;float:right;shape-outside:url(https://frank-mayer.github.io/psycho-pass-pnp/img/kogami3.webp)" />
 
 Eine Dienststelle der japanischen Regierung, deren Schwerpunkt auf der Bekämpfung von Terrorismus, Korruption, organisiertem Verbrechen, Internetkriminalität und Bürgerrechtsverletzungen sowie auf der Untersuchung von schweren Verbrechen wie schweren Diebstählen oder Morden und Angelegenheiten im Zusammenhang mit der Strafverfolgung liegt.
 
 Ihre Struktur und Aufgaben ähneln denen des Amtes für öffentliche Sicherheit, aber ihre Zuständigkeit erstreckt sich auf Angelegenheiten außerhalb der Grenzen Japans sowie auf Verbrechen, die die Grenzen Japans überschreiten (z. B. Schmuggel).
+
+Im Gegensatz zum Amt für Öffentliche Sicherheit, verfügt beim Ausenministerium niemand über einen Dominator. Sie verwenden Schlagstöcke und Schusswaffen.
 
 #### Bekannte Mitglieder
 
