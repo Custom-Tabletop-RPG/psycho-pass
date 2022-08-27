@@ -147,7 +147,7 @@ Ab einem Kriminalkoeffizient von 300 sollte der latente Verbrecher umgehend exek
 
 **Doch das System ist nicht perfekt, darum hat man einem Menschen eine Waffe mit Abzug gegeben, obwohl man eine Drone verwenden könnte.**
 
-Ausnahmen sind Vollstrecker, sie haben in der Regel einen Kriminalkoeffizienten von etwa 300, sind jedoch im Dienst von Sibyl und unter der Verantwortung ihrer Inspektoren.
+Ausnahmen sind [Vollstrecker](#vollstrecker) und [Analysten](#analyst), sie haben in der Regel einen Kriminalkoeffizienten von etwa 300, sind jedoch im Dienst von Sibyl und unter der Verantwortung ihrer Inspektoren.
 
 ## Aspekte
 
