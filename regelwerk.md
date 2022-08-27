@@ -46,7 +46,7 @@ Als Inspektor bist du für die Führung der Ermittlungen zuständig. Dir gehöre
 
 Du darfst im Dienst jede Waffe tragen und im Sinne von Sibyl einsetzen.
 
-Du beginnst mit einem Kriminalkoeffizienten von `2 D20`.
+Du beginnst mit einem Kriminal&shy;koeffizienten von `2 D20`.
 
 ### Vollstrecker
 
@@ -54,7 +54,7 @@ Du bist für die Dreckarbeit zuständig. Du darfst ohne die Genemigung deines In
 
 Zur Bewaffnung mit einem [Dominator](#dominator) benötigst du jedes Mal die explizite Genehmigung eines Inspektors.
 
-Du beginnst mit einem Kriminalkoeffizienten von `100` + `1 D100` + `2 D20`.
+Du beginnst mit einem Kriminal&shy;koeffizienten von `100` + `1 D100` + `2 D20`.
 
 ### Analyst
 
@@ -64,7 +64,7 @@ Ob du als Analyst den NONA-Tower verlassen und in den Auseneinsatz darfst, legt 
 
 Zur Bewaffnung mit einem [Dominator](#dominator) benötigst du jedes Mal die explizite Genehmigung eines Inspektors.
 
-Du beginnst mit einem Kriminalkoeffizienten von `95` + `5 D20`.
+Du beginnst mit einem Kriminal&shy;koeffizienten von `95` + `5 D20`.
 
 ### Abtrünniger
 
@@ -116,15 +116,15 @@ Mit dieser Sonderfähigkeit, kannst du kein [latenter Verbrecher](#latente-verbr
 
 > Die Klasse Abtrünniger wäre hier aber sehr interessant.
 
-## Kriminalkoeffizient
+## Kriminal&shy;koeffizient
 
-Der Kriminalkoeffizient gibt die Bereitschaft an, gegen das Gesetz zu verstoßen. Ein gesunder Wert liegt bei etwa 50. Ab 100 gilt ein Mensch alt [latenter Verbrecher](#latente-verbrecher). Steigt der Kriminalkoeffizient eines PC der Klasse Inspektor über 100, so sind alle Beamten in der Pflicht diesen PC festzunehmen. Der PC gilt dann als [latenter Verbrecher](#latente-verbrecher) und hat die folgende Möglichkeiten:
+Der Kriminal&shy;koeffizient gibt die Bereitschaft an, gegen das Gesetz zu verstoßen. Ein gesunder Wert liegt bei etwa 50. Ab 100 gilt ein Mensch alt [latenter Verbrecher](#latente-verbrecher). Steigt der Kriminal&shy;koeffizient eines PC der Klasse Inspektor über 100, so sind alle Beamten in der Pflicht diesen PC festzunehmen. Der PC gilt dann als [latenter Verbrecher](#latente-verbrecher) und hat die folgende Möglichkeiten:
 
 - Zur Klasse [Vollstrecker](#vollstrecker) wechseln
 - Zur Klasse [Analyst](#analyst) wechseln
 - Zur Klasse [Abtrünniger](#abtrünniger) wechseln
 
-### Wie verändert sich mein Kriminalkoeffizient?
+### Wie verändert sich mein Kriminal&shy;koeffizient?
 
 Als Verbrechen wird alles gewertet, was das Sibyl-System (der GM) als negativ für die Gesellschaft Japans ansieht. Alles was nicht von Sibyl als Verbrechen gewertet wird, ist auch keines. Sibyl kennt keine Moral, sondern agiert rein rational.
 
@@ -134,20 +134,20 @@ Davon ausgehend, dass der GM nicht die Gedanken seiner Spieler überprüfen kann
 
 Beispiele:
 
-- Lässt ein [Analyst](#analyst) Vorschungsergebnisse verschwinden lässt das den Kriminalkoeffizient **steigen**.
-- Verstößt ein [Vollstrecker](#vollstrecker) gegen die Befehle seines _Inspektors_, wird der Kriminalkoeffizient **steigen**.
-- Das unerlaubte entwenden von Eigentum eines anderen Individuums (auch als stehlen bezeichnet), lässt den Kriminalkoeffizient **steigen**.
-- Versucht ein _Inspektor_ oder ein _Vollstrecker_ einen als [latenten Verbrecher](#latente-verbrecher) (>300) eingestuften Menschen zu beruhigen, um dessen Kriminalkoeffizient zu senken (<300), wird der Kriminalkoeffizient des _Inspektors_ / _Vollstreckers_ **sinken**. Dadurch wird das Ziel vom [Dominator](#dominator) nicht mehr getötet.
+- Lässt ein [Analyst](#analyst) Vorschungs&shy;ergebnisse verschwinden lässt das den Kriminal&shy;koeffizient **steigen**.
+- Verstößt ein [Vollstrecker](#vollstrecker) gegen die Befehle seines _Inspektors_, wird der Kriminal&shy;koeffizient **steigen**.
+- Das unerlaubte entwenden von Eigentum eines anderen Individuums (auch als stehlen bezeichnet), lässt den Kriminal&shy;koeffizient **steigen**.
+- Versucht ein _Inspektor_ oder ein _Vollstrecker_ einen als [latenten Verbrecher](#latente-verbrecher) (>300) eingestuften Menschen zu beruhigen, um dessen Kriminal&shy;koeffizient zu senken (<300), wird der Kriminal&shy;koeffizient des _Inspektors_ / _Vollstreckers_ **sinken**. Dadurch wird das Ziel vom [Dominator](#dominator) nicht mehr getötet.
 
 ### Latente Verbrecher
 
-Ein latenter Verbrecher ist ein Mensch mit einem Kriminalkoeffizient von 100 oder mehr. Bis 300 gilt dieser noch als heilbar und sollte verhaftet werden.
+Ein latenter Verbrecher ist ein Mensch mit einem Kriminal&shy;koeffizient von 100 oder mehr. Bis 300 gilt dieser noch als heilbar und sollte verhaftet werden.
 
-Ab einem Kriminalkoeffizient von 300 sollte der latente Verbrecher umgehend exekutiert werden, da das Sibyl-System keine Chance auf Heilung sieht. Ein solcher latenter Verbrecher hat keinerlei Menschenrechte.
+Ab einem Kriminal&shy;koeffizient von 300 sollte der latente Verbrecher umgehend exekutiert werden, da das Sibyl-System keine Chance auf Heilung sieht. Ein solcher latenter Verbrecher hat keinerlei Menschenrechte.
 
 **Doch das System ist nicht perfekt, darum hat man einem Menschen eine Waffe mit Abzug gegeben, obwohl man eine Drone verwenden könnte.**
 
-Ausnahmen sind [Vollstrecker](#vollstrecker) und [Analysten](#analyst), sie haben in der Regel einen Kriminalkoeffizienten von etwa 300, sind jedoch im Dienst von Sibyl und unter der Verantwortung ihrer Inspektoren.
+Ausnahmen sind [Vollstrecker](#vollstrecker) und [Analysten](#analyst), sie haben in der Regel einen Kriminal&shy;koeffizienten von etwa 300, sind jedoch im Dienst von Sibyl und unter der Verantwortung ihrer Inspektoren.
 
 ## Aspekte
 
@@ -225,7 +225,7 @@ Scharfsinnig +3, Tollkühn und Tückisch +2, Flink und Kraftvoll +1, Sorgfältig
 
 Ein **Stunt** ist eine besondere Eigenschaft, die die Art und Weise verändert, wie eine Methode bei deinem Charakter funktioniert. Normalerweise geben Stunts einen Bonus (fast immer +2) auf eine einzelne Methode, wenn du sie unter bestimmten Umständen bei einer festgelegten Aktion verwendest. Im Kapitel [Stunts](#stunts) erfährst du mehr darüber, wie Stunts funktionieren.
 
-Du kannst dir bei der Charaktererschaffung einen Stunt aussuchen. Wenn dein Charakter im Laufe der Zeit besser wird, kannst du noch mehr Stunts auswählen.
+Du kannst dir bei der Charakter&shy;erschaffung einen Stunt aussuchen. Wenn dein Charakter im Laufe der Zeit besser wird, kannst du noch mehr Stunts auswählen.
 Deine Erholungsrate legt fest, mit wie vielen _Fate-Punkten_ du jede Spielsitzung beginnst. Das gilt nicht, wenn du am Ende der letzten Spielsitzung mehr _Fate-Punkte_ hattest als deine Erholungsrate beträgt – in diesem Fall fängst du mit so vielen _Fate-Punkten_ an, wie du am Ende der letzten Spielsitzung hattest.
 
 Normalerweise liegt deine Erholungsrate bei 3, aber wenn du mehr als drei Stunts hast, musst du pro zusätzlichem Stunt einen Punkt von deiner Erholungsrate abziehen. Im Prinzip sind daher deine ersten drei Stunts kostenlos! Wenn dein Charakter im Laufe der Zeit besser wird, bekommst du die Gelegenheit, deine Erholungsrate zu erhöhen. Deine Erholungsrate darf nie niedriger als 1 sein.
@@ -461,11 +461,11 @@ Tragbares System zur psychologischen Diagnose und Unterdrückung
 
 <img loading="lazy" decoding="async" src="https://frank-mayer.github.io/psycho-pass-pnp/img/Dominator.webp" style="max-height:14rem;object-fit:contain;float:right;" />
 
-Der Abzug der Waffe ist standardmäßig gesperrt, bis der integrierte Scanner eine Person im Visier der Waffe identifiziert, die einen Kriminalkoeffizienten von 100 oder höher aufweist und den Griff der Waffe in der Hand eines registrierten und autorisierten Benutzers hält. Damit soll sichergestellt werden, dass es keine unschuldigen Opfer gibt und Missbrauch verhindert wird.
+Der Abzug der Waffe ist standardmäßig gesperrt, bis der integrierte Scanner eine Person im Visier der Waffe identifiziert, die einen Kriminal&shy;koeffizienten von 100 oder höher aufweist und den Griff der Waffe in der Hand eines registrierten und autorisierten Benutzers hält. Damit soll sichergestellt werden, dass es keine unschuldigen Opfer gibt und Missbrauch verhindert wird.
 
 ###### Non-Lethal Paralyzer:
 
-Ab einem Kriminalkoeffizienten von 100.
+Ab einem Kriminal&shy;koeffizienten von 100.
 
 _"Enforcement mode: Non-Lethal Paralyzer. Please aim calmly and subdue the target."_
 
@@ -473,7 +473,7 @@ Der Dominator feuert Energiestöße ab, die das Ziel lähmen. Er wird eingesetzt
 
 ###### Lethal Eliminator
 
-Ab einem Kriminalkoeffizienten von 300
+Ab einem Kriminal&shy;koeffizienten von 300
 
 _"Enforcement mode: Lethal Eliminator. Please aim carefully and eliminate the target."_
 
@@ -495,13 +495,13 @@ Der Assault Dominator ist die Scharfschützengewehr-Version des Dominator. Er ve
 
 <img loading="lazy" decoding="async" src="https://frank-mayer.github.io/psycho-pass-pnp/img/Assault_Dominator.webp" style="max-height:18rem;object-fit:contain;margin: 0 auto;display: block;" />
 
-##### Elektromagnetische Pulsgranate
+##### Elektro&shy;magnetische Pulsgranate
 
-Diese Granate gibt einen elektromagnetischen Energiestoß ab, der keinen bleibenden Schaden an Menschen anrichtet. Der Radius des Impulses beträgt zehn Meter.
+Diese Granate gibt einen elektro&shy;magnetischen Energiestoß ab, der keinen bleibenden Schaden an Menschen anrichtet. Der Radius des Impulses beträgt zehn Meter.
 
 Betroffene Menschen werden ohnmächtig. Nicht abgeschirmte Elektronik wird zerstört.
 
-##### Teleskopschlagstock
+##### Teleskop&shy;schlagstock
 
 Nahkampfwaffe, eine gute Wahl wenn eine Waffe verdeckt getragen werden muss oder in einem Gebiet, in dem kein Dominator eingesetzt werden kann.
 
@@ -521,7 +521,7 @@ Es gibt natürlich endlos viele Aspekte, aber egal, wie sie heißen, sie funktio
 
 #### Charakteraspekte
 
-Das sind die Aspekte auf deinem Charakterbogen, z.B. dein Konzept und dein Dilemma. Sie beschreiben Persönlichkeitsmerkmale, wichtige Sachen aus deiner Vergangenheit, deine Beziehungen mit anderen oder auch wichtige Gegenstände und Titel, die zu dir gehören, Probleme, mit denen du dich beschäftigst, Ziele, auf die du hin arbeitest, einen Ruf, der dir anhaftet, oder eine Verpflichtung, der du nachkommen musst. Diese Aspekte verändern sich nur selten und unter ungewöhnlichen Umständen, die meisten bleiben bestehen.
+Das sind die Aspekte auf deinem Charakterbogen, z.B. dein Konzept und dein Dilemma. Sie beschreiben Persönlichkeits&shy;merkmale, wichtige Sachen aus deiner Vergangenheit, deine Beziehungen mit anderen oder auch wichtige Gegenstände und Titel, die zu dir gehören, Probleme, mit denen du dich beschäftigst, Ziele, auf die du hin arbeitest, einen Ruf, der dir anhaftet, oder eine Verpflichtung, der du nachkommen musst. Diese Aspekte verändern sich nur selten und unter ungewöhnlichen Umständen, die meisten bleiben bestehen.
 
 **Beispiele:** `Blick fürs Detail`, `ich muss auf meinen Bruder aufpassen`
 
@@ -599,7 +599,7 @@ Zum Beispiel:
 - Weil ich **gute Kontakte** habe, kann ich einmal pro Sitzung **einen hilfreichen Verbündeten genau am richtigen Ort finden**.
 - Weil ich **richtig schnell ziehe**, kann ich einmal pro Sitzung festlegen, dass ich **bei einem körperlichen Konflikt als Erster an die Reihe komme**.
 
-## Wie werde ich besser? - Charakterentwicklung
+## Wie werde ich besser? - Charakter&shy;entwicklung
 
 ### Meilensteine
 
@@ -644,11 +644,11 @@ Einen großen Meilenstein erreicht ihr normalerweise nach einem großen Einschni
 
 <img loading="lazy" decoding="async" src="https://frank-mayer.github.io/psycho-pass-pnp/img/Kazumichi.webp" style="max-height:18rem;object-fit:contain;float:left;border-left:transparent 0.5rem solid;shape-outside:url(https://frank-mayer.github.io/psycho-pass-pnp/img/Kazumichi.webp)" />
 
-Ich wuchs im aufgegebenen Bezirk von Myogadani auf und kenne mich daher gut mit solchen Gebieten, ihren Bewohnern und kriminellen Elementen aus. Während dieser Zeit arbeitete ich für Haruki Enomiya, bis ich begann, das Informationsnetzwerk des Bezirks mit Akane Tsunemori (Inspektorin der Kriminalabteilung) zu teilen. Später wurde ich von Mika Shimotsuki (Inspektorin der Kriminalabteilung) rekrutiert, um ein Vollstrecker zu werden.
+Ich wuchs im aufgegebenen Bezirk von Myogadani auf und kenne mich daher gut mit solchen Gebieten, ihren Bewohnern und kriminellen Elementen aus. Während dieser Zeit arbeitete ich für Haruki Enomiya, bis ich begann, das Informations&shy;netzwerk des Bezirks mit Akane Tsunemori (Inspektorin der Kriminalabteilung) zu teilen. Später wurde ich von Mika Shimotsuki (Inspektorin der Kriminalabteilung) rekrutiert, um ein Vollstrecker zu werden.
 
 **Klasse:** Vollstrecker
 
-**Kriminalkoeffizient:** 360
+**Kriminal&shy;koeffizient:** 360
 
 **Konzept:** Aufgewachsen auf den harten Straßen des aufgegebenen Bezirks von Myogadani.
 
