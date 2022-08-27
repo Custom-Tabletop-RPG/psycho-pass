@@ -106,7 +106,7 @@ Mit dem Auge der Toten kannst du sehen wie nah eine Person dem Tod steht. Hierbe
 
 Der Einsatz dieser Fähigkeit wirkt sich negativ auf deine Psyche aus. Du bekommst pro Person, die du mit dem aktivierten Auge der Toten siehst psychischen Schaden (wird vom GM gewürfelt).
 
-### Selbstbegradende Konstitution
+### Selbstbegnadende Konstitution
 
 Vorbild: [Shogo Makishima](https://psychopass.fandom.com/wiki/Shogo_Makishima), [Shindou Arata](https://psychopass.fandom.com/wiki/Arata_Shindo)
 
