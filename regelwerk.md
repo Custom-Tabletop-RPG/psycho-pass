@@ -4,8 +4,8 @@ Basierend auf [Turbo Fate](https://faterpg.de/turbo-fate)
 
 <img class="no-mobile" loading="lazy" decoding="async" src="https://custom-tabletop-rpg.github.io/psycho-pass/img/Tomomi_Masaoka.webp" style="max-width:25vw;max-height:32rem;object-fit:contain;float:right;shape-outside:url(https://custom-tabletop-rpg.github.io/psycho-pass/img/Tomomi_Masaoka.webp)" />
 
-- TOC
-  {:toc}
+* TOC
+{:toc}
 
 <style>
 @media scren and (max-width: 500px) {
