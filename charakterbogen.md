@@ -22,7 +22,7 @@ Drücke `Strg`+ `P` zum drucken.
   </div>
   <div class="icon">
     <img
-      src="https://frank-mayer.github.io/psycho-pass-pnp/img/Psycho-pass.logo.svg"
+      src="https://custom-tabletop-rpg.github.io/psycho-pass/img/Psycho-pass.logo.svg"
     />
   </div>
   <div

@@ -1,6 +1,6 @@
 # Karte
 
-<img src="https://frank-mayer.github.io/psycho-pass-pnp/img/shion.webp" style="max-height:18rem;object-fit:contain;float:right;shape-outside:url(https://frank-mayer.github.io/psycho-pass-pnp/img/shion.webp);" />
+<img src="https://custom-tabletop-rpg.github.io/psycho-pass/img/shion.webp" style="max-height:18rem;object-fit:contain;float:right;shape-outside:url(https://custom-tabletop-rpg.github.io/psycho-pass/img/shion.webp);" />
 
 Hier findest du Informationen über die Welt von Psycho-Pass. Hauptsächlich die Stadt Tokyo.
 

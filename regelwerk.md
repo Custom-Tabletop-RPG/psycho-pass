@@ -2,10 +2,10 @@
 
 Basierend auf [Turbo Fate](https://faterpg.de/turbo-fate)
 
-<img class="no-mobile" loading="lazy" decoding="async" src="https://frank-mayer.github.io/psycho-pass-pnp/img/Tomomi_Masaoka.webp" style="max-width:25vw;max-height:32rem;object-fit:contain;float:right;shape-outside:url(https://frank-mayer.github.io/psycho-pass-pnp/img/Tomomi_Masaoka.webp)" />
+<img class="no-mobile" loading="lazy" decoding="async" src="https://custom-tabletop-rpg.github.io/psycho-pass/img/Tomomi_Masaoka.webp" style="max-width:25vw;max-height:32rem;object-fit:contain;float:right;shape-outside:url(https://custom-tabletop-rpg.github.io/psycho-pass/img/Tomomi_Masaoka.webp)" />
 
-* TOC
-{:toc}
+- TOC
+  {:toc}
 
 <style>
 @media scren and (max-width: 500px) {
@@ -80,7 +80,7 @@ Jede der folgenden Sonderfähigkeiten darf nur einmal pro Gruppe vergeben werden
 
 Vorbild: [Shindou Arata](https://psychopass.fandom.com/wiki/Arata_Shindo)
 
-<img loading="lazy" decoding="async" src="https://frank-mayer.github.io/psycho-pass-pnp/img/Shindou.webp" style="max-width:50vw;max-height:32rem;object-fit:contain;float:right;shape-outside:url(https://frank-mayer.github.io/psycho-pass-pnp/img/Shindou.webp)" />
+<img loading="lazy" decoding="async" src="https://custom-tabletop-rpg.github.io/psycho-pass/img/Shindou.webp" style="max-width:50vw;max-height:32rem;object-fit:contain;float:right;shape-outside:url(https://custom-tabletop-rpg.github.io/psycho-pass/img/Shindou.webp)" />
 
 #### Mental Trace
 
@@ -459,7 +459,7 @@ Als Vollstrecker benötigst du die explizite Genemigung eines Inspektors um dich
 
 Tragbares System zur psychologischen Diagnose und Unterdrückung
 
-<img loading="lazy" decoding="async" src="https://frank-mayer.github.io/psycho-pass-pnp/img/Dominator.webp" style="max-height:14rem;object-fit:contain;float:right;" />
+<img loading="lazy" decoding="async" src="https://custom-tabletop-rpg.github.io/psycho-pass/img/Dominator.webp" style="max-height:14rem;object-fit:contain;float:right;" />
 
 Der Abzug der Waffe ist standardmäßig gesperrt, bis der integrierte Scanner eine Person im Visier der Waffe identifiziert, die einen Kriminal&shy;koeffizienten von 100 oder höher aufweist und den Griff der Waffe in der Hand eines registrierten und autorisierten Benutzers hält. Damit soll sichergestellt werden, dass es keine unschuldigen Opfer gibt und Missbrauch verhindert wird.
 
@@ -477,7 +477,7 @@ Ab einem Kriminal&shy;koeffizienten von 300
 
 _"Enforcement mode: Lethal Eliminator. Please aim carefully and eliminate the target."_
 
-<img loading="lazy" decoding="async" src="https://frank-mayer.github.io/psycho-pass-pnp/img/Dominator-eliminator.webp" style="max-height:18rem;object-fit:contain;float:right;" />
+<img loading="lazy" decoding="async" src="https://custom-tabletop-rpg.github.io/psycho-pass/img/Dominator-eliminator.webp" style="max-height:18rem;object-fit:contain;float:right;" />
 
 In diesem Modus kann die Waffe einen gewaltigen Energiestoß abfeuern, der bei Kontakt mit dem Ziel alle organische und anorganische Materie angreift. Nach dem Aufprall auf ein menschliches Ziel wird alles, was getroffen wird, vernichtet. Der Vorgang dauert etwa zwei Sekunden und ist visuell gewaltig, da er überall dort, wo die Energie auftrifft, eine massive Schwellung verursacht. Die Schwellung breitet sich dann auf den gesamten Körper aus, bevor sie explodiert. Zurück bleibt eine Blutspur mit Leichenteilen, die möglicherweise eine mindestens achtzehn Zentimeter lange Eintrittswunde aufweisen. Die Waffe ist auch in der Lage, Gliedmaßen zu zerstückeln. Ein Schuss in eine Gliedmaße, während sich die Waffe in diesem Modus befindet, lässt das Ziel oft am Leben, wenn auch schwer verletzt und mit völlig zerstörter Gliedmaße.
 
@@ -493,7 +493,7 @@ In diesem Modus verfügt der Benutzer über eine kleine Handkanone, die eine Exp
 
 Der Assault Dominator ist die Scharfschützengewehr-Version des Dominator. Er verfügt über die selben Eigenschaften und Modi, nur mit viel höherer Präzision.
 
-<img loading="lazy" decoding="async" src="https://frank-mayer.github.io/psycho-pass-pnp/img/Assault_Dominator.webp" style="max-height:18rem;object-fit:contain;margin: 0 auto;display: block;" />
+<img loading="lazy" decoding="async" src="https://custom-tabletop-rpg.github.io/psycho-pass/img/Assault_Dominator.webp" style="max-height:18rem;object-fit:contain;margin: 0 auto;display: block;" />
 
 ##### Elektro&shy;magnetische Pulsgranate
 
@@ -505,7 +505,7 @@ Betroffene Menschen werden ohnmächtig. Nicht abgeschirmte Elektronik wird zerst
 
 Nahkampfwaffe, eine gute Wahl wenn eine Waffe verdeckt getragen werden muss oder in einem Gebiet, in dem kein Dominator eingesetzt werden kann.
 
-<img loading="lazy" decoding="async" src="https://frank-mayer.github.io/psycho-pass-pnp/img/schlagstock.webp" style="max-height:18rem;object-fit:contain;margin: 0 auto;display: block;" />
+<img loading="lazy" decoding="async" src="https://custom-tabletop-rpg.github.io/psycho-pass/img/schlagstock.webp" style="max-height:18rem;object-fit:contain;margin: 0 auto;display: block;" />
 
 ## Aspekte und Fate-Punkte
 
@@ -642,7 +642,7 @@ Einen großen Meilenstein erreicht ihr normalerweise nach einem großen Einschni
 
 ### Kazumichi Iriei
 
-<img loading="lazy" decoding="async" src="https://frank-mayer.github.io/psycho-pass-pnp/img/Kazumichi.webp" style="max-height:18rem;object-fit:contain;float:left;border-left:transparent 0.5rem solid;shape-outside:url(https://frank-mayer.github.io/psycho-pass-pnp/img/Kazumichi.webp)" />
+<img loading="lazy" decoding="async" src="https://custom-tabletop-rpg.github.io/psycho-pass/img/Kazumichi.webp" style="max-height:18rem;object-fit:contain;float:left;border-left:transparent 0.5rem solid;shape-outside:url(https://custom-tabletop-rpg.github.io/psycho-pass/img/Kazumichi.webp)" />
 
 Ich wuchs im aufgegebenen Bezirk von Myogadani auf und kenne mich daher gut mit solchen Gebieten, ihren Bewohnern und kriminellen Elementen aus. Während dieser Zeit arbeitete ich für Haruki Enomiya, bis ich begann, das Informations&shy;netzwerk des Bezirks mit Akane Tsunemori (Inspektorin der Kriminalabteilung) zu teilen. Später wurde ich von Mika Shimotsuki (Inspektorin der Kriminalabteilung) rekrutiert, um ein Vollstrecker zu werden.
 

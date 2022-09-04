@@ -1,4 +1,4 @@
-<img src="https://frank-mayer.github.io/psycho-pass-pnp/img/Psycho-pass.logo.svg" style="width:min(85%,600px);margin:4rem auto;display:block;height:auto;" />
+<img src="https://custom-tabletop-rpg.github.io/psycho-pass/img/Psycho-pass.logo.svg" style="width:min(85%,600px);margin:4rem auto;display:block;height:auto;" />
 
 ## Inhaltsverzeichnis
 
@@ -9,8 +9,8 @@
 - [PDFs](https://github.com/Frank-Mayer/psycho-pass-pnp/releases/latest)
 
 <div class="cover">
-    <img class="kogami" src="https://frank-mayer.github.io/psycho-pass-pnp/img/kogami.webp"/>
-    <img class="makishima" src="https://frank-mayer.github.io/psycho-pass-pnp/img/makishima.webp"  />
+    <img class="kogami" src="https://custom-tabletop-rpg.github.io/psycho-pass/img/kogami.webp"/>
+    <img class="makishima" src="https://custom-tabletop-rpg.github.io/psycho-pass/img/makishima.webp"  />
 </div>
 
 <style>
