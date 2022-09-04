@@ -6,7 +6,7 @@
 - [Karte](/karte.md)
 - [Regelwerk](/regelwerk.md)
 - [Charakterbogen](/charakterbogen.md)
-- [PDFs](https://github.com/Frank-Mayer/psycho-pass-pnp/releases/latest)
+- [PDFs](https://github.com/Custom-Tabletop-RPG/psycho-pass/releases/latest)
 
 <div class="cover">
     <img class="kogami" src="https://custom-tabletop-rpg.github.io/psycho-pass/img/kogami.webp"/>
