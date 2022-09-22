@@ -72,7 +72,7 @@ Die Vollstrecker sind das wichtigste Kraftwerk der Kriminalabteilung. Alle Volls
 
 Diese Personen sind, mit Unterstützungsaufgaben für alle Abteilungen betraut. Sie messen und verarbeiten die Kriminal&shy;koeffizienten von Straftätern und führen Datenanalysen durch. Sie tragen weiße Laborkittel.
 
-## Ausenministerium, Aktionseinheit
+## Außenministerium, Aktionseinheit
 
 <img src="https://custom-tabletop-rpg.github.io/psycho-pass/img/kogami3.webp" style="max-height:24rem;max-width:50vw;object-fit:contain;float:right;shape-outside:url(https://custom-tabletop-rpg.github.io/psycho-pass/img/kogami3.webp)" />
 
@@ -80,7 +80,7 @@ Eine Dienststelle der japanischen Regierung, deren Schwerpunkt auf der Bekämpfu
 
 Ihre Struktur und Aufgaben ähneln denen des Amtes für öffentliche Sicherheit, aber ihre Zuständigkeit erstreckt sich auf Angelegenheiten außerhalb der Grenzen Japans sowie auf Verbrechen, die die Grenzen Japans überschreiten (z. B. Schmuggel).
 
-Im Gegensatz zum Amt für Öffentliche Sicherheit, verfügt beim Ausenministerium niemand über einen Dominator. Sie verwenden Schlagstöcke und Schusswaffen.
+Im Gegensatz zum Amt für Öffentliche Sicherheit, verfügt beim Außenministerium niemand über einen Dominator. Sie verwenden Schlagstöcke und Schusswaffen.
 
 #### Bekannte Mitglieder
 

@@ -4,8 +4,8 @@ Basierend auf [Turbo Fate](https://faterpg.de/turbo-fate)
 
 <img class="no-mobile" loading="lazy" decoding="async" src="https://custom-tabletop-rpg.github.io/psycho-pass/img/Tomomi_Masaoka.webp" style="max-width:25vw;max-height:32rem;object-fit:contain;float:right;shape-outside:url(https://custom-tabletop-rpg.github.io/psycho-pass/img/Tomomi_Masaoka.webp)" />
 
-* TOC
-{:toc}
+- TOC
+  {:toc}
 
 <style>
 @media scren and (max-width: 500px) {
@@ -60,7 +60,7 @@ Du beginnst mit einem Kriminal&shy;koeffizienten von `100` + `1 D100` + `2 D20`.
 
 Du verbringst die meiste Zeit in deinem Labor im NONA-Tower. Du bist für Hacking und Analysen zuständig. Du darfst ohne die Genemigung deines Inspektors nicht den NONA-Tower verlassen oder außerhalb des NONA-Towers agieren. Solange du dich an die Anweisungen und Absprachen deines Inspektors hältst, folgen keinerlei rechtliche Konsequenzen auf deine Taten.
 
-Ob du als Analyst den NONA-Tower verlassen und in den Auseneinsatz darfst, legt der GM für die gesamte Kampagne fest. Dein Inspektor entscheidet dann in den Einzelfällen, ob du vom NOVA-Tower aus unterstützt oder vor Ort aktiv bist.
+Ob du als Analyst den NONA-Tower verlassen und in den Außeneinsatz darfst, legt der GM für die gesamte Kampagne fest. Dein Inspektor entscheidet dann in den Einzelfällen, ob du vom NOVA-Tower aus unterstützt oder vor Ort aktiv bist.
 
 Zur Bewaffnung mit einem [Dominator](#dominator) benötigst du jedes Mal die explizite Genehmigung eines Inspektors.
 
