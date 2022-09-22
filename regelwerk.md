@@ -78,7 +78,7 @@ Jede der folgenden Sonderfähigkeiten darf nur einmal pro Gruppe vergeben werden
 
 ### Mentalist
 
-Vorbild: [Shindou Arata](https://psychopass.fandom.com/wiki/Arata_Shindo)
+Vorbild: [Arata Shindo](https://psychopass.fandom.com/wiki/Arata_Shindo)
 
 <img loading="lazy" decoding="async" src="https://custom-tabletop-rpg.github.io/psycho-pass/img/Shindou.webp" style="max-width:50vw;max-height:32rem;object-fit:contain;float:right;shape-outside:url(https://custom-tabletop-rpg.github.io/psycho-pass/img/Shindou.webp)" />
 
@@ -108,7 +108,7 @@ Der Einsatz dieser Fähigkeit wirkt sich negativ auf deine Psyche aus. Du bekomm
 
 ### Selbstbegnadende Konstitution
 
-Vorbild: [Shogo Makishima](https://psychopass.fandom.com/wiki/Shogo_Makishima), [Shindou Arata](https://psychopass.fandom.com/wiki/Arata_Shindo)
+Vorbild: [Shogo Makishima](https://psychopass.fandom.com/wiki/Shogo_Makishima), [Arata Shindo](https://psychopass.fandom.com/wiki/Arata_Shindo)
 
 Die Messung des Geistes ist auf dich nicht anwendbar. Bei einer Messung mit einem [Dominator](#dominator) ist das Ergebnis immer 0. Das bedeutet nicht, dass du exakt so handelst, wie Sibyl sich das wünscht. Lediglich eine Messung ist bei dir nicht möglich.
 
