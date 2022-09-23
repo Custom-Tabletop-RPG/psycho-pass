@@ -397,7 +397,7 @@ Deine Initiative im Konflikt hängt von deinen Methoden ab. In einem körperlich
 
 ### Austausch
 
-Als nächstes ist jeder Charakter einmal der Reihe nach dran. Wenn er dran ist, kann ein Charakter eine der vier Aktionen durchführen. Würfelt und legt das Ergebnis fest. Der Konflikt ist vorbei, wenn nur noch eine Seite Charaktere übrig hat, die am Kampf teilnehmen können.
+Als nächstes ist jeder Charakter einmal der Reihe nach dran. Wenn er dran ist, kann ein Charakter eine der vier [Aktionen](#aktionen) durchführen. Würfelt und legt das Ergebnis fest. Der Konflikt ist vorbei, wenn nur noch eine Seite Charaktere übrig hat, die am Kampf teilnehmen können.
 
 ## Aua! – Schaden, Stress und Konsequenzen
 
